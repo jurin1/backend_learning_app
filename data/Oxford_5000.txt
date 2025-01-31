@@ -1,0 +1,1996 @@
+word;translation;example_sentence;transition_sentence
+abolish; abschaffen; They want to abolish the death penalty; Sie wollen abschaffen die Todesstrafe
+abortion; Abtreibung; The debate around abortion is very controversial; Die Debatte um Abtreibung ist sehr kontrovers
+absence; Abwesenheit; His absence from work was noticeable; Seine Abwesenheit von Arbeit war bemerkbar
+absent; abwesend; She was absent from the meeting; Sie war abwesend von dem Treffen
+absorb; aufnehmen; The sponge will absorb the water; Der Schwamm wird aufnehmen das Wasser
+abstract; abstrakt; The painting was very abstract; Das Gemälde war sehr abstrakt
+absurd; absurd; His behaviour was absurd; Sein Verhalten war absurd
+abundance; Fülle; There was an abundance of food at the party; Es gab eine Fülle von Essen bei der Party
+abuse; Missbrauch; He suffered abuse as a child; Er litt Missbrauch als ein Kind
+academy; Akademie; She attended the Royal Academy of Music; Sie besuchte die Königliche Akademie von Musik
+accelerate; beschleunigen; The car will accelerate quickly; Das Auto wird beschleunigen schnell
+accent; Akzent; She has a strong German accent; Sie hat einen starken Deutschen Akzent
+acceptance; Akzeptanz; There is a growing acceptance of diversity; Es gibt eine wachsende Akzeptanz von Diversität
+accessible; zugänglich; The museum is easily accessible by train; Das Museum ist leicht zugänglich mit Zug
+accidentally; versehentlich; I accidentally broke the glass; Ich versehentlich brach das Glas
+accommodate; unterbringen; The hotel can accommodate 200 guests; Das Hotel kann unterbringen 200 Gäste
+accomplish; erreichen; She managed to accomplish her goal; Sie schaffte zu erreichen ihr Ziel
+accomplishment; Leistung; Getting the degree was a big accomplishment; Bekommen den Abschluss war eine große Leistung
+accordance; Übereinstimmung; In accordance with the rules, the meeting was cancelled; In Übereinstimmung mit den Regeln, das Treffen war abgesagt
+accordingly; demgemäß; The instructions were clear, so we acted accordingly; Die Anweisungen waren klar, so wir handelten demgemäß
+accountability; Verantwortlichkeit; The lack of accountability is a big problem; Der Mangel von Verantwortlichkeit ist ein großes Problem
+accountable; verantwortlich; He is accountable for his actions; Er ist verantwortlich für seine Taten
+accountant; Buchhalter; She is a qualified accountant; Sie ist eine qualifizierte Buchhalter
+accounting; Buchhaltung; She is responsible for the company’s accounting; Sie ist verantwortlich für die Firma’s Buchhaltung
+accumulate; ansammeln; The snow will accumulate if it keeps falling; Der Schnee wird ansammeln wenn es weiter fällt
+accumulation; Ansammlung; There was a large accumulation of leaves; Es war eine große Ansammlung von Blättern
+accuracy; Genauigkeit; The accuracy of the data is essential; Die Genauigkeit von den Daten ist wesentlich
+accurately; genau; He measured the distance accurately; Er maß die Distanz genau
+accusation; Anschuldigung; She denied the accusation; Sie leugnete die Anschuldigung
+accused; Angeklagte/r; The accused appeared in court today; Die Angeklagte/r erschien vor Gericht heute
+acid; Säure; Lemon juice is a strong acid; Zitronensaft ist eine starke Säure
+acquisition; Erwerb; The acquisition of the company was very expensive; Der Erwerb von der Firma war sehr teuer
+acre; Hektar; The farm covers 100 acres; Der Bauernhof bedeckt 100 Hektar
+activate; aktivieren; Press the button to activate the device; Drücke den Knopf um zu aktivieren das Gerät
+activation; Aktivierung; The activation of the alarm triggered the fire alarm; Die Aktivierung von dem Alarm löste aus den Feueralarm
+activist; Aktivist/in; She is a passionate environmental activist; Sie ist eine leidenschaftliche Umwelt Aktivist/in
+acute; akut; She has an acute pain in her back; Sie hat einen akuten Schmerz in ihrem Rücken
+adaptation; Anpassung; This film is an adaptation of the book; Dieser Film ist eine Anpassung von dem Buch
+addiction; Sucht; He is struggling with a drug addiction; Er kämpft mit einer Drogen Sucht
+additionally; zusätzlich; Additionally, we need more information; Zusätzlich, wir brauchen mehr Informationen
+adequate; ausreichend; The food was adequate for the journey; Das Essen war ausreichend für die Reise
+adequately; ausreichend; They were not adequately prepared; Sie waren nicht ausreichend vorbereitet
+adhere; haften; The sticker will not adhere to the wet surface; Der Aufkleber wird nicht haften auf die nasse Oberfläche
+adjacent; angrenzend; The two houses are adjacent to each other; Die zwei Häuser sind angrenzend an einander
+adjust; anpassen; You may need to adjust the volume; Du musst vielleicht anpassen die Lautstärke
+adjustment; Anpassung; It will take time for an adjustment to the new schedule; Es wird Zeit brauchen für eine Anpassung an den neuen Zeitplan
+administer; verwalten; They are responsible for administering the healthcare system; Sie sind verantwortlich für Verwalten das Gesundheitssystem
+administrative; administrativ; They have an administrative role in the company; Sie haben eine administrative Rolle in der Firma
+administrator; Verwalter/in; He is the hospital administrator; Er ist der Krankenhaus Verwalter/in
+admission; Zulassung; He got an admission to university; Er bekam eine Zulassung zur Universität
+adolescent; Jugendliche/r; The book is aimed at adolescents; Das Buch ist gerichtet an Jugendliche
+adoption; Adoption; They are looking into the option of adoption; Sie schauen in die Option von Adoption
+adverse; nachteilig; The medicine can have adverse side effects; Das Medikament kann haben nachteilige Nebeneffekte
+advocate; befürworten; She is a passionate advocate for animal rights; Sie ist eine leidenschaftliche Befürworterin für Tier Rechte
+aesthetic; ästhetisch; The building was very aesthetic; Das Gebäude war sehr ästhetisch
+affection; Zuneigung; She showed a lot of affection towards him; Sie zeigte eine Menge von Zuneigung zu ihm
+affordable; erschwinglich; The housing is not affordable for everyone; Das Wohnen ist nicht erschwinglich für jeden
+aftermath; Nachwirkungen; The aftermath of the storm was devastating; Die Nachwirkungen von dem Sturm war verheerend
+aggression; Aggression; There was a lot of aggression in his voice; Es war eine Menge von Aggression in seiner Stimme
+agricultural; landwirtschaftlich; The area is mostly agricultural; Die Gegend ist meistens landwirtschaftlich
+agriculture; Landwirtschaft; He works in agriculture; Er arbeitet in Landwirtschaft
+aide; Helfer/in; He is an aide to the president; Er ist ein Helfer zu dem Präsidenten
+aids; Hilfsmittel; These are aids to help children with learning; Diese sind Hilfsmittel um zu helfen Kinder mit Lernen
+albeit; obgleich; She is very talented, albeit a bit lazy; Sie ist sehr talentiert, obgleich ein bisschen faul
+alert; alarmieren; They need to alert the police; Sie müssen alarmieren die Polizei
+alien; fremd; He felt alien in the new country; Er fühlte sich fremd in dem neuen Land
+align; ausrichten; You need to align the wheels of the car; Du musst ausrichten die Räder von dem Auto
+alignment; Ausrichtung; The alignment of the building was perfect; Die Ausrichtung von dem Gebäude war perfekt
+alike; ähnlich; The two cars look very alike; Die zwei Autos sehen sehr ähnlich aus
+allegation; Behauptung; They denied the allegation; Sie leugneten die Behauptung
+allege; behaupten; They allege that he was involved; Sie behaupten, dass er war beteiligt
+allegedly; angeblich; He allegedly committed the crime; Er angeblich beging das Verbrechen
+alliance; Bündnis; They formed an alliance; Sie bildeten ein Bündnis
+allocate; zuweisen; They need to allocate more funds; Sie müssen zuweisen mehr Gelder
+allocation; Zuweisung; The allocation of funds was fair; Die Zuweisung von Geldern war fair
+allowance; Zulage; She has a daily allowance for food; Sie hat eine tägliche Zulage für Essen
+ally; Verbündete/r; The US is an ally of Germany; Die USA ist ein Verbündete von Deutschland
+alongside; neben; He was standing alongside his father; Er stand neben seinem Vater
+altogether; insgesamt; There were 10 people altogether; Es waren 10 Leute insgesamt
+aluminium; Aluminium; The cans are made of aluminium; Die Dosen sind gemacht aus Aluminium
+amateur; Amateur; He is just an amateur; Er ist nur ein Amateur
+ambassador; Botschafter/in; She is the British ambassador to France; Sie ist die Britische Botschafterin zu Frankreich
+ambulance; Krankenwagen; Call an ambulance; Ruf einen Krankenwagen
+amend; ändern; They are planning to amend the law; Sie planen zu ändern das Gesetz
+amendment; Änderung; They made an amendment to the contract; Sie machten eine Änderung zu dem Vertrag
+amid; inmitten; He was lost amid the crowd; Er war verloren inmitten der Menge
+amusing; amüsant; The movie was very amusing; Der Film war sehr amüsant
+analogy; Analogie; He used an analogy to explain the situation; Er benutzte eine Analogie um zu erklären die Situation
+analyst; Analytiker/in; She is a financial analyst; Sie ist eine finanzielle Analytikerin
+ancestor; Vorfahr/in; He is a descendant of an important ancestor; Er ist ein Nachkomme von einem wichtigen Vorfahr
+anchor; Anker; The ship dropped anchor; Das Schiff ließ fallen Anker
+angel; Engel; She has the voice of an angel; Sie hat die Stimme von einem Engel
+animation; Animation; He is very good at animation; Er ist sehr gut in Animation
+annually; jährlich; The company publishes its results annually; Die Firma veröffentlicht ihre Ergebnisse jährlich
+anonymous; anonym; They received an anonymous letter; Sie erhielten ein anonymes Brief
+anticipate; erwarten; They anticipate a good result; Sie erwarten ein gutes Ergebnis
+anxiety; Angst; He has a lot of anxiety; Er hat eine Menge von Angst
+apology; Entschuldigung; He offered an apology for his actions; Er bot an eine Entschuldigung für seine Taten
+apparatus; Apparat; The laboratory was filled with complex apparatus; Das Labor war gefüllt mit komplexem Apparat
+appealing; ansprechend; The offer was very appealing; Das Angebot war sehr ansprechend
+appetite; Appetit; He has a good appetite; Er hat einen guten Appetit
+applaud; applaudieren; The crowd applauded the performance; Die Menge applaudierte der Aufführung
+applicable; anwendbar; This rule is applicable in all cases; Diese Regel ist anwendbar in allen Fällen
+applicant; Bewerber/in; They received over 100 applicants for the job; Sie erhielten über 100 Bewerber für den Job
+appoint; ernennen; They will appoint a new manager; Sie werden ernennen einen neuen Manager
+appreciation; Wertschätzung; They showed their appreciation for her help; Sie zeigten ihre Wertschätzung für ihre Hilfe
+appropriately; angemessen; They responded appropriately; Sie antworteten angemessen
+arbitrary; willkürlich; The decision seemed very arbitrary; Die Entscheidung schien sehr willkürlich
+architectural; architektonisch; He likes architectural designs; Er mag architektonische Entwürfe
+archive; Archiv; The document was stored in the archive; Das Dokument war gespeichert in dem Archiv
+arena; Arena; The sports event was held in the arena; Das Sport Event war gehalten in der Arena
+arguably; wohl; It is arguably the best movie ever made; Es ist wohl der beste Film jemals gemacht
+arm; Arm; He has a broken arm; Er hat einen gebrochenen Arm
+array; Anordnung; There was an array of different colours; Es war eine Anordnung von verschiedenen Farben
+arrow; Pfeil; They fired an arrow at the target; Sie feuerten einen Pfeil auf das Ziel
+articulate; artikulieren; He is very good at articulating his thoughts; Er ist sehr gut in Artikulierend seine Gedanken
+artwork; Kunstwerk; The museum contains many pieces of artwork; Das Museum enthält viele Stücke von Kunstwerk
+ash; Asche; The fire turned to ash; Das Feuer verwandelte sich zu Asche
+aside; beiseite; He moved the chair aside; Er bewegte den Stuhl beiseite
+aspiration; Bestrebung; She has a strong aspiration to become a doctor; Sie hat eine starke Bestrebung um zu werden eine Ärztin
+aspire; anstreben; He aspires to become a successful businessman; Er strebt an um zu werden ein erfolgreicher Geschäftsmann
+assassination; Attentat; The assassination of the president shocked the world; Das Attentat von dem Präsidenten schockierte die Welt
+assault; Angriff; She was the victim of an assault; Sie war das Opfer von einem Angriff
+assemble; montieren; They need to assemble the furniture; Sie müssen montieren die Möbel
+assembly; Montage; The assembly of the machine is quite complex; Die Montage von der Maschine ist ziemlich komplex
+assert; behaupten; He asserted his innocence; Er behauptete seine Unschuld
+assertion; Behauptung; His assertion proved to be correct; Seine Behauptung bewies zu sein richtig
+asset; Vermögenswert; The company has some valuable assets; Die Firma hat einige wertvolle Vermögenswerte
+assign; zuweisen; They assigned her the task; Sie wiesen ihr zu die Aufgabe
+assistance; Hilfe; He asked for assistance from his colleagues; Er fragte nach Hilfe von seinen Kollegen
+assumption; Annahme; That is based on a wrong assumption; Das ist basiert auf eine falsche Annahme
+assurance; Zusicherung; They gave her an assurance that the money would be safe; Sie gaben ihr eine Zusicherung, dass das Geld würde sein sicher
+assure; versichern; He assured her that it was safe; Er versicherte ihr, dass es war sicher
+astonishing; erstaunlich; That is an astonishing discovery; Das ist eine erstaunliche Entdeckung
+asylum; Asyl; He is seeking political asylum; Er sucht politisches Asyl
+atrocity; Gräueltat; The war was marked by a number of atrocities; Der Krieg war gekennzeichnet von einer Zahl von Gräueltaten
+attachment; Anhang; You can find the details in the attachment; Du kannst finden die Details in dem Anhang
+attain; erreichen; They are trying to attain the target; Sie versuchen zu erreichen das Ziel
+attendance; Teilnahme; Attendance at the meeting is mandatory; Teilnahme an dem Treffen ist verpflichtend
+attorney; Anwalt/Anwältin; She is a qualified attorney; Sie ist eine qualifizierte Anwältin
+attribute; zuschreiben; She attributes her success to hard work; Sie schreibt ihren Erfolg zu harter Arbeit
+auction; Auktion; They are holding an auction for charity; Sie halten eine Auktion für Wohltätigkeit
+audio; Audio; The audio was not very clear; Das Audio war nicht sehr klar
+audit; Prüfung; They will carry out an audit of the accounts; Sie werden durchführen eine Prüfung von den Konten
+authentic; authentisch; Is the painting authentic?; Ist das Gemälde authentisch?
+authorize; ermächtigen; He has the right to authorize the payment; Er hat das Recht zu ermächtigen die Zahlung
+auto; Auto; He owns a brand new auto; Er besitzt ein brandneues Auto
+automatic; automatisch; The door is automatic; Die Tür ist automatisch
+automatically; automatisch; The system will do it automatically; Das System wird tun es automatisch
+autonomy; Autonomie; The country is fighting for its autonomy; Das Land kämpft für seine Autonomie
+availability; Verfügbarkeit; We need to check the availability of rooms; Wir müssen prüfen die Verfügbarkeit von Zimmern
+await; erwarten; They are awaiting a reply; Sie erwarten eine Antwort
+awareness; Bewusstsein; They are raising awareness about the issue; Sie erhöhen das Bewusstsein über das Thema
+awkward; peinlich; There was an awkward silence; Es gab eine peinliche Stille
+backdrop; Hintergrund; The mountains formed a beautiful backdrop; Die Berge bildeten einen schönen Hintergrund
+backing; Unterstützung; She has a lot of support and backing; Sie hat eine Menge Unterstützung und Rückendeckung
+backup; Sicherung; We need to make a backup of our data; Wir müssen machen eine Sicherung von unseren Daten
+badge; Abzeichen; He was wearing a police badge; Er trug ein Polizei Abzeichen
+bail; Kaution; He was released on bail; Er war freigelassen auf Kaution
+balanced; ausgeglichen; He has a very balanced lifestyle; Er hat einen sehr ausgeglichenen Lebensstil
+ballet; Ballett; She dances ballet; Sie tanzt Ballett
+balloon; Ballon; The balloon floated away; Der Ballon schwebte weg
+ballot; Wahlzettel; They cast their ballot in the election; Sie gaben ab ihren Wahlzettel in der Wahl
+banner; Banner; The crowd were waving banners; Die Menge war wehend Banner
+bare; kahl; The tree was bare; Der Baum war kahl
+barely; kaum; She could barely hear him; Sie konnte kaum hören ihn
+bargain; Schnäppchen; It was a real bargain; Es war ein echtes Schnäppchen
+barrel; Fass; The barrel was filled with water; Das Fass war gefüllt mit Wasser
+basement; Keller; The washing machine is in the basement; Die Waschmaschine ist in dem Keller
+basket; Korb; The basket was full of fruits; Der Korb war voll von Früchten
+bass; Bass; He plays the bass guitar; Er spielt die Bass Gitarre
+bat; Fledermaus/Schläger; He used a bat to play baseball; Er benutzte einen Schläger um zu spielen Baseball
+battlefield; Schlachtfeld; The battlefield was covered in bodies; Das Schlachtfeld war bedeckt mit Körpern
+bay; Bucht; The town is located in a bay; Die Stadt ist gelegen in einer Bucht
+beam; Balken; The beam was made of wood; Der Balken war gemacht aus Holz
+beast; Tier; The beast roared loudly; Das Tier brüllte laut
+behalf; Auftrag; I am speaking on behalf of the group; Ich spreche im Auftrag der Gruppe
+beloved; geliebt; He is a beloved character; Er ist ein geliebter Charakter
+bench; Bank; He sat on a park bench; Er saß auf einer Park Bank
+benchmark; Maßstab; The product is the benchmark for its class; Das Produkt ist der Maßstab für seine Klasse
+beneath; unterhalb; The treasure was hidden beneath the floor; Der Schatz war versteckt unterhalb des Bodens
+beneficial; vorteilhaft; The exercise is very beneficial for the health; Die Übung ist sehr vorteilhaft für die Gesundheit
+beneficiary; Begünstigte/r; She is the beneficiary of the trust fund; Sie ist die Begünstigte von dem Treuhandfonds
+beside; neben; He sat beside his wife; Er saß neben seiner Frau
+besides; außerdem; Besides that, what else do you need; Außerdem, was sonst brauchst du
+betray; verraten; He betrayed her trust; Er verriet ihr Vertrauen
+bias; Voreingenommenheit; The media has a clear bias; Die Medien haben eine klare Voreingenommenheit
+bid; bieten; They bid a high price for the painting; Sie boten einen hohen Preis für das Gemälde
+bind; binden; They bound him with rope; Sie banden ihn mit Seil
+biography; Biografie; He is reading a biography of Churchill; Er liest eine Biografie von Churchill
+biological; biologisch; They are conducting biological research; Sie führen durch biologische Forschung
+bishop; Bischof; The bishop is the head of the diocese; Der Bischof ist der Kopf von der Diözese
+bizarre; bizarr; His behaviour was bizarre; Sein Verhalten war bizarr
+blade; Klinge; The blade of the knife was very sharp; Die Klinge von dem Messer war sehr scharf
+blanket; Decke; She covered herself with a blanket; Sie bedeckte sich mit einer Decke
+blast; Explosion; There was a huge blast; Es war eine riesige Explosion
+bleed; bluten; His finger started to bleed; Sein Finger begann zu bluten
+blend; mischen; Blend the ingredients well; Mische die Zutaten gut
+bless; segnen; God bless you; Gott segne dich
+blessing; Segen; This is a true blessing; Das ist ein wahrer Segen
+blow; Schlag; He gave him a blow to the face; Er gab ihm einen Schlag auf das Gesicht
+boast; prahlen; He likes to boast about his achievements; Er mag zu prahlen über seine Errungenschaften
+bold; mutig; He is a very bold person; Er ist eine sehr mutige Person
+bombing; Bombenanschlag; The city suffered another bombing; Die Stadt erlitt einen weiteren Bombenanschlag
+bonus; Bonus; They received a year-end bonus; Sie erhielten einen Jahresendbonus
+booking; Buchung; She made a booking for the restaurant; Sie machte eine Buchung für das Restaurant
+boom; Boom; The city experienced an economic boom; Die Stadt erlebte einen wirtschaftlichen Boom
+boost; ankurbeln; The new project will boost the economy; Das neue Projekt wird ankurbeln die Wirtschaft
+bounce; springen; The ball bounced off the wall; Der Ball sprang ab von der Wand
+bound; gebunden; The criminal was bound to the chair; Der Kriminelle war gebunden an den Stuhl
+boundary; Grenze; The river marks the boundary between the two countries; Der Fluss markiert die Grenze zwischen den zwei Ländern
+bow; Bogen; She tied the ribbon in a bow; Sie band das Band in einen Bogen
+breach; Bruch; They accused him of a breach of contract; Sie beschuldigten ihn eines Bruches von Vertrag
+breakdown; Zusammenbruch; There was a breakdown in negotiations; Es gab einen Zusammenbruch in Verhandlungen
+breakthrough; Durchbruch; The discovery was a scientific breakthrough; Die Entdeckung war ein wissenschaftlicher Durchbruch
+breed; züchten; They breed dogs for competitions; Sie züchten Hunde für Wettbewerbe
+brick; Ziegelstein; The house is made of bricks; Das Haus ist gemacht aus Ziegelsteinen
+briefly; kurz; She spoke briefly about her trip; Sie sprach kurz über ihre Reise
+broadband; Breitband; We have a fast broadband connection; Wir haben eine schnelle Breitbandverbindung
+broadcaster; Sender; He is a well-known broadcaster; Er ist ein bekannter Sender
+broadly; weitgehend; He is broadly similar to his brother; Er ist weitgehend ähnlich zu seinem Bruder
+browser; Browser; Open the browser to access the internet; Öffne den Browser um zuzugreifen das Internet
+brutal; brutal; The attack was very brutal; Der Angriff war sehr brutal
+buck; Dollar; The book cost 20 bucks; Das Buch kostete 20 Dollar
+buddy; Kumpel; He is my best buddy; Er ist mein bester Kumpel
+buffer; Puffer; This will act as a buffer; Das wird handeln als ein Puffer
+bug; Käfer/Fehler; There is a bug in the software; Es gibt einen Fehler in der Software
+bulk; Masse; They bought the books in bulk; Sie kauften die Bücher in Masse
+burden; Belastung; The tax system puts a burden on the poor; Das Steuersystem setzt eine Belastung auf die Armen
+bureaucracy; Bürokratie; The bureaucracy is a problem for many businesses; Die Bürokratie ist ein Problem für viele Unternehmen
+burial; Beerdigung; He went to the burial of his grandfather; Er ging zur Beerdigung von seinem Großvater
+burst; platzen; The balloon burst; Der Ballon platzte
+cabin; Kabine; They stayed in a small cabin in the woods; Sie blieben in einer kleinen Kabine in dem Wald
+cabinet; Kabinett; The president met with his cabinet; Der Präsident traf sich mit seinem Kabinett
+calculation; Berechnung; He made a quick calculation in his head; Er machte eine schnelle Berechnung in seinem Kopf
+canal; Kanal; The boats sailed through the canal; Die Boote segelten durch den Kanal
+candle; Kerze; They lit a candle in the dark room; Sie zündeten eine Kerze in dem dunklen Raum an
+canvas; Leinwand; The artist painted on a large canvas; Der Künstler malte auf einer großen Leinwand
+capability; Fähigkeit; He has the capability to do the work; Er hat die Fähigkeit zu machen die Arbeit
+capitalism; Kapitalismus; Some criticize capitalism for inequality; Manche kritisieren Kapitalismus für Ungleichheit
+capitalist; Kapitalist/in; He is a successful capitalist; Er ist ein erfolgreicher Kapitalist
+carbon; Kohlenstoff; Plants absorb carbon from the air; Pflanzen absorbieren Kohlenstoff von der Luft
+cargo; Fracht; The ship was carrying cargo; Das Schiff trug Fracht
+carriage; Kutsche/Wagen; They travelled in a horse-drawn carriage; Sie reisten in einer Pferdegezogenen Kutsche
+carve; schnitzen; They carved a wooden statue; Sie schnitzten eine hölzerne Statue
+casino; Kasino; He likes to play in the casino; Er mag zu spielen in dem Kasino
+casual; lässig; It was just a casual conversation; Es war nur ein lässiges Gespräch
+casualty; Opfer; There were several casualties of the accident; Es gab mehrere Opfer von dem Unfall
+catalogue; Katalog; The catalogue includes all the available products; Der Katalog beinhaltet alle die verfügbaren Produkte
+cater; anbieten; The restaurant caters for large parties; Das Restaurant bietet an für große Partys
+cattle; Vieh; The farmers kept cattle; Die Bauern hielten Vieh
+caution; Vorsicht; They treated the information with caution; Sie behandelten die Informationen mit Vorsicht
+cautious; vorsichtig; He is a very cautious driver; Er ist ein sehr vorsichtiger Fahrer
+cave; Höhle; They explored the cave; Sie erkundeten die Höhle
+cease; aufhören; They had to cease operations; Sie mussten aufhören Operationen
+cemetery; Friedhof; He was buried in the cemetery; Er war begraben in dem Friedhof
+certainty; Gewissheit; They did not know for certainty; Sie wussten nicht mit Gewissheit
+certificate; Zertifikat; They received a certificate for the course; Sie erhielten ein Zertifikat für den Kurs
+challenging; herausfordernd; It was a challenging project; Es war ein herausforderndes Projekt
+chamber; Kammer; They met in the chamber of commerce; Sie trafen sich in der Kammer von Handel
+championship; Meisterschaft; He won the world championship; Er gewann die Weltmeisterschaft
+chaos; Chaos; The situation descended into chaos; Die Situation sank ab in Chaos
+characterize; charakterisieren; It was difficult to characterize the situation; Es war schwierig zu charakterisieren die Situation
+charm; Charme; He has a lot of charm; Er hat eine Menge von Charme
+charming; charmant; She is a very charming lady; Sie ist eine sehr charmante Dame
+charter; Charta; They created a charter for human rights; Sie erstellten eine Charta für Menschenrechte
+chase; jagen; The dog chased the cat; Der Hund jagte die Katze
+cheek; Wange; He kissed her on the cheek; Er küsste sie auf die Wange
+cheer; Jubel; The crowd cheered loudly; Die Menge jubelte laut
+choir; Chor; She sings in the choir; Sie singt in dem Chor
+chop; hacken; They chopped down the trees; Sie hackten nieder die Bäume
+chronic; chronisch; He suffers from a chronic illness; Er leidet unter einer chronischen Krankheit
+chunk; Stück; He cut off a chunk of wood; Er schnitt ab ein Stück von Holz
+circuit; Kreislauf; The circuit board was damaged; Die Leiterplatte war beschädigt
+circulate; zirkulieren; The blood needs to circulate properly; Das Blut muss zirkulieren richtig
+circulation; Kreislauf; They monitored the blood circulation; Sie überwachten den Blutkreislauf
+citizenship; Staatsbürgerschaft; He has German citizenship; Er hat Deutsche Staatsbürgerschaft
+civic; bürgerlich; They have civic responsibilities; Sie haben bürgerliche Verantwortlichkeiten
+civilian; Zivilist/in; The bombing killed several civilians; Der Bombenanschlag tötete mehrere Zivilisten
+civilization; Zivilisation; The ancient civilization was very advanced; Die alte Zivilisation war sehr fortgeschritten
+clarify; klären; They needed to clarify the situation; Sie brauchten zu klären die Situation
+clarity; Klarheit; The report was lacking clarity; Der Bericht war mangelnd Klarheit
+clash; Zusammenstoß; There was a clash between the two groups; Es gab einen Zusammenstoß zwischen den zwei Gruppen
+classification; Klassifizierung; They have a system of classification; Sie haben ein System von Klassifizierung
+classify; klassifizieren; They classify the students by ability; Sie klassifizieren die Studenten nach Fähigkeit
+cleaning; Reinigung; They have a daily cleaning service; Sie haben einen täglichen Reinigungs Service
+clerk; Angestellte/r; He is a bank clerk; Er ist ein Bank Angestellter
+cliff; Klippe; They walked to the edge of the cliff; Sie gingen zu der Kante von der Klippe
+cling; klammern; They clung to each other; Sie klammerten an einander
+clinic; Klinik; She went to the clinic for a check up; Sie ging zu der Klinik für eine Untersuchung
+clinical; klinisch; They did clinical tests; Sie machten klinische Tests
+clip; Klipp; They used a clip to attach the papers; Sie benutzten einen Klipp um zu befestigen die Papiere
+closure; Schließung; The factory faced closure; Die Fabrik drohte Schließung
+cluster; Häufung; There was a cluster of houses in the village; Es war eine Häufung von Häusern in dem Dorf
+coalition; Koalition; The party formed a coalition with another party; Die Partei formte eine Koalition mit einer anderen Partei
+coastal; Küsten-; They live in a coastal town; Sie leben in einer Küsten Stadt
+cocktail; Cocktail; They enjoyed a cocktail before dinner; Sie genossen einen Cocktail vor dem Abendessen
+cognitive; kognitiv; The therapy helped with their cognitive abilities; Die Therapie half mit ihren kognitiven Fähigkeiten
+coincide; zusammenfallen; The two events coincide; Die zwei Ereignisse fallen zusammen
+coincidence; Zufall; It was a strange coincidence; Es war ein seltsamer Zufall
+collaborate; zusammenarbeiten; They are collaborating on the project; Sie arbeiten zusammen an dem Projekt
+collaboration; Zusammenarbeit; The project needs a lot of collaboration; Das Projekt braucht eine Menge von Zusammenarbeit
+collective; kollektiv; They made a collective decision; Sie machten eine kollektive Entscheidung
+collector; Sammler/in; He is a stamp collector; Er ist ein Briefmarken Sammler
+collision; Zusammenstoß; There was a car collision; Es war ein Auto Zusammenstoß
+colonial; kolonial; They were ruled by a colonial power; Sie waren regiert von einer kolonialen Macht
+colony; Kolonie; They lived in a former colony; Sie lebten in einer ehemaligen Kolonie
+colourful; farbenfroh; The garden was very colourful; Der Garten war sehr farbenfroh
+columnist; Kolumnist/in; She is a famous newspaper columnist; Sie ist eine berühmte Zeitung Kolumnistin
+combat; bekämpfen; They are working to combat poverty; Sie arbeiten um zu bekämpfen Armut
+comic; Comic; The book is a comic; Das Buch ist ein Comic
+commander; Kommandant/in; He is a military commander; Er ist ein Militär Kommandant
+commence; beginnen; The meeting will commence at 10 o’clock; Das Treffen wird beginnen um 10 Uhr
+commentary; Kommentar; He gave a detailed commentary; Er gab einen detaillierten Kommentar
+commentator; Kommentator/in; He is a well-known sports commentator; Er ist ein bekannter Sport Kommentator
+commerce; Handel; International commerce is very complex; Internationaler Handel ist sehr komplex
+commissioner; Kommissar/in; She is a police commissioner; Sie ist eine Polizei Kommissarin
+commodity; Ware; Oil is an important commodity; Öl ist eine wichtige Ware
+communist; Kommunist/in; He is a communist; Er ist ein Kommunist
+companion; Begleiter/in; The dog is his faithful companion; Der Hund ist sein treuer Begleiter
+comparable; vergleichbar; The two products are comparable; Die zwei Produkte sind vergleichbar
+comparative; vergleichend; They did a comparative analysis; Sie machten eine vergleichende Analyse
+compassion; Mitgefühl; She showed compassion towards them; Sie zeigte Mitgefühl zu ihnen
+compel; zwingen; They could not compel him to go; Sie konnten nicht zwingen ihn zu gehen
+compelling; zwingend; The evidence was very compelling; Die Beweise waren sehr zwingend
+compensate; entschädigen; They will compensate you for the loss; Sie werden entschädigen dich für den Verlust
+compensation; Entschädigung; They received compensation for their injuries; Sie erhielten Entschädigung für ihre Verletzungen
+competence; Kompetenz; They questioned his competence; Sie fragten seine Kompetenz in Frage
+competent; kompetent; He is a competent worker; Er ist ein kompetenter Arbeiter
+compile; zusammenstellen; They will compile a report; Sie werden zusammenstellen einen Bericht
+complement; ergänzen; The two colours complement each other; Die zwei Farben ergänzen einander
+completion; Fertigstellung; The project was near completion; Das Projekt war nahe Fertigstellung
+complexity; Komplexität; The complexity of the issue is very high; Die Komplexität von dem Thema ist sehr hoch
+compliance; Einhaltung; They need to ensure compliance with the rules; Sie müssen sicherstellen Einhaltung mit den Regeln
+complication; Komplikation; There was a complication after the surgery; Es gab eine Komplikation nach der Operation
+comply; einhalten; They need to comply with all the regulations; Sie müssen einhalten mit allen den Vorschriften
+compose; komponieren; He is composing a new song; Er komponiert ein neues Lied
+composer; Komponist/in; She is a famous composer; Sie ist eine berühmte Komponistin
+composition; Komposition; The musical composition was beautiful; Die musikalische Komposition war schön
+compound; Verbindung; They formed a chemical compound; Sie formten eine chemische Verbindung
+comprehensive; umfassend; They wrote a comprehensive report; Sie schrieben einen umfassenden Bericht
+comprise; umfassen; The book comprises ten chapters; Das Buch umfasst zehn Kapitel
+compromise; Kompromiss; They reached a compromise; Sie erreichten einen Kompromiss
+compulsory; obligatorisch; School attendance is compulsory; Schulbesuch ist obligatorisch
+compute; berechnen; They need to compute the result; Sie müssen berechnen das Ergebnis
+conceal; verbergen; They tried to conceal the information; Sie versuchten zu verbergen die Informationen
+concede; zugeben; He finally conceded the point; Er endlich gab zu den Punkt
+conceive; vorstellen; They could not conceive the idea; Sie konnten nicht vorstellen die Idee
+concession; Zugeständnis; They made several concessions; Sie machten mehrere Zugeständnisse
+concrete; Beton; The building was made of concrete; Das Gebäude war gemacht aus Beton
+condemn; verurteilen; They condemn the violence; Sie verurteilen die Gewalt
+confer; verleihen; They will confer a degree on him; Sie werden verleihen einen Abschluss an ihn
+confess; gestehen; He confessed his mistake; Er gestand seinen Fehler
+confession; Geständnis; His confession surprised everyone; Sein Geständnis überraschte jeden
+configuration; Konfiguration; They changed the configuration of the computer; Sie änderten die Konfiguration von dem Computer
+confine; einschränken; They had to confine him to the house; Sie mussten einschränken ihn zu dem Haus
+confirmation; Bestätigung; They received a confirmation of the booking; Sie erhielten eine Bestätigung von der Buchung
+confront; konfrontieren; He had to confront his fears; Er musste konfrontieren seine Ängste
+confrontation; Konfrontation; They avoided a confrontation; Sie vermieden eine Konfrontation
+confusion; Verwirrung; There was a lot of confusion; Es war eine Menge von Verwirrung
+congratulate; gratulieren; They congratulated him on his success; Sie gratulierten ihm zu seinem Erfolg
+congregation; Gemeinde; The congregation met in the church; Die Gemeinde traf sich in der Kirche
+congressional; Kongress-; They discussed the issue in the congressional meeting; Sie diskutierten das Thema in dem Kongress Treffen
+conquer; erobern; They conquered the land; Sie eroberten das Land
+conscience; Gewissen; His conscience told him what was right; Sein Gewissen sagte ihm was war richtig
+consciousness; Bewusstsein; She lost consciousness; Sie verlor das Bewusstsein
+consecutive; aufeinanderfolgend; They won five consecutive games; Sie gewannen fünf aufeinanderfolgende Spiele
+consensus; Konsens; They reached a consensus; Sie erreichten einen Konsens
+consent; Zustimmung; They needed his consent; Sie brauchten seine Zustimmung
+consequently; folglich; He missed the train and consequently was late; Er verpasste den Zug und folglich war spät
+conservation; Erhaltung; They are working on wildlife conservation; Sie arbeiten an Wildtier Erhaltung
+conserve; erhalten; They need to conserve water; Sie müssen erhalten Wasser
+considerable; beträchtlich; There was a considerable amount of damage; Es war eine beträchtliche Menge von Schaden
+considerably; beträchtlich; The situation has improved considerably; Die Situation hat verbessert beträchtlich
+consistency; Beständigkeit; They showed consistency; Sie zeigten Beständigkeit
+consistently; beständig; He performed consistently well; Er leistete beständig gut
+consolidate; festigen; They need to consolidate their position; Sie müssen festigen ihre Position
+conspiracy; Verschwörung; There was a conspiracy theory; Es war eine Verschwörungstheorie
+constituency; Wahlkreis; He represents his constituency; Er repräsentiert seinen Wahlkreis
+constitute; darstellen; These issues constitute a problem; Diese Themen stellen dar ein Problem
+constitution; Verfassung; They follow the country's constitution; Sie folgen die Landes Verfassung
+constitutional; verfassungsmäßig; They challenged the decision as unconstitutional; Sie forderten an die Entscheidung als verfassungswidrig
+constraint; Einschränkung; They were working under some constraints; Sie arbeiteten unter einigen Einschränkungen
+consult; beraten; They need to consult a lawyer; Sie müssen beraten einen Anwalt
+consultant; Berater/in; She is a business consultant; Sie ist eine Geschäftsberaterin
+consultation; Beratung; They had a consultation with the doctor; Sie hatten eine Beratung mit dem Arzt
+consumption; Verbrauch; They are monitoring energy consumption; Sie überwachen Energie Verbrauch
+contemplate; nachdenken; He needed time to contemplate the proposal; Er brauchte Zeit um nachzudenken den Vorschlag
+contempt; Verachtung; He showed contempt for the rules; Er zeigte Verachtung für die Regeln
+contend; behaupten; He contends that he is innocent; Er behauptet, dass er ist unschuldig
+contender; Anwärter/in; She is a strong contender for the award; Sie ist eine starke Anwärterin für die Auszeichnung
+content; Inhalt; What was the content of the letter; Was war der Inhalt von dem Brief
+contention; Streit; The issue is a point of contention; Das Thema ist ein Punkt von Streit
+continually; ständig; The phone was ringing continually; Das Telefon klingelte ständig
+contractor; Auftragnehmer; He is a building contractor; Er ist ein Bau Auftragnehmer
+contradiction; Widerspruch; There is a contradiction in the statement; Es gibt einen Widerspruch in der Aussage
+contrary; gegenteilig; The evidence was contrary to the claim; Die Beweise waren gegenteilig zu dem Anspruch
+contributor; Beitragende/r; He is a major contributor to the project; Er ist ein großer Beitragender zu dem Projekt
+controversial; kontrovers; The topic was very controversial; Das Thema war sehr kontrovers
+controversy; Kontroverse; The decision caused a lot of controversy; Die Entscheidung verursachte eine Menge von Kontroverse
+convenience; Bequemlichkeit; They chose it for its convenience; Sie wählten es für seine Bequemlichkeit
+convention; Übereinkunft; There was a international convention; Es war eine internationale Übereinkunft
+conventional; herkömmlich; It is a conventional way of doing things; Es ist eine herkömmliche Art von machen Sachen
+conversion; Umwandlung; They did a conversion to the building; Sie machten eine Umwandlung zu dem Gebäude
+convey; vermitteln; They need to convey this message; Sie müssen vermitteln diese Nachricht
+convict; verurteilen; They were convicted of the crime; Sie waren verurteilt von dem Verbrechen
+conviction; Überzeugung; He has a strong conviction; Er hat eine starke Überzeugung
+convincing; überzeugend; The argument was very convincing; Die Argumentation war sehr überzeugend
+cooperate; zusammenarbeiten; They will cooperate on the project; Sie werden zusammenarbeiten an dem Projekt
+cooperative; kooperativ; They are a very cooperative group; Sie sind eine sehr kooperative Gruppe
+coordinate; koordinieren; They need to coordinate the work; Sie müssen koordinieren die Arbeit
+coordination; Koordination; The coordination was very good; Die Koordination war sehr gut
+coordinator; Koordinator/in; She is the project coordinator; Sie ist die Projekt Koordinatorin
+cop; Polizist/in; He is a police cop; Er ist ein Polizei Polizist
+cope; bewältigen; He has difficulty coping with stress; Er hat Schwierigkeiten bewältigen mit Stress
+copper; Kupfer; The pipes were made of copper; Die Rohre waren gemacht aus Kupfer
+copyright; Urheberrecht; They have the copyright for the book; Sie haben das Urheberrecht für das Buch
+corporation; Konzern; It is a large multinational corporation; Es ist ein großer multinationaler Konzern
+correction; Korrektur; They needed a correction of the document; Sie brauchten eine Korrektur von dem Dokument
+correlate; korrelieren; The results did not correlate with each other; Die Ergebnisse korrelierten nicht mit einander
+correlation; Korrelation; They found a correlation between the two factors; Sie fanden eine Korrelation zwischen den zwei Faktoren
+correspond; entsprechen; The results correspond with expectations; Die Ergebnisse entsprechen mit Erwartungen
+correspondence; Korrespondenz; They have a lot of correspondence with the clients; Sie haben eine Menge von Korrespondenz mit den Klienten
+correspondent; Korrespondent/in; She is a BBC correspondent; Sie ist eine BBC Korrespondentin
+corresponding; entsprechend; The two pictures are corresponding; Die zwei Bilder sind entsprechend
+corridor; Korridor; They walked down the corridor; Sie gingen hinunter den Korridor
+corrupt; korrupt; The system is corrupt; Das System ist korrupt
+corruption; Korruption; They are investigating corruption; Sie untersuchen Korruption
+costly; kostspielig; It was a very costly mistake; Es war ein sehr kostspieliger Fehler
+councillor; Stadtrat/Stadträtin; She is a local councillor; Sie ist ein lokaler Stadträtin
+counselling; Beratung; He needs some counselling; Er braucht einige Beratung
+counsellor; Berater/in; She is a school counsellor; Sie ist eine Schul Beraterin
+counter; Tresen; He stood at the counter; Er stand an dem Tresen
+counterpart; Gegenstück; He spoke to his counterpart in the other country; Er sprach zu seinem Gegenstück in dem anderen Land
+countless; unzählig; There were countless stars in the sky; Es waren unzählige Sterne in dem Himmel
+coup; Putsch; They attempted a coup; Sie versuchten einen Putsch
+courtesy; Höflichkeit; He was treated with courtesy; Er wurde behandelt mit Höflichkeit
+coverage; Berichterstattung; They had good media coverage; Sie hatten gute Medien Berichterstattung
+crack; Riss; There was a crack in the wall; Es war ein Riss in der Wand
+craft; Handwerk; She is good at craft; Sie ist gut in Handwerk
+crawl; kriechen; The baby started to crawl; Das Baby begann zu kriechen
+creativity; Kreativität; He is full of creativity; Er ist voll von Kreativität
+creator; Schöpfer/in; He is the creator of the universe; Er ist der Schöpfer von dem Universum
+credibility; Glaubwürdigkeit; They lost their credibility; Sie verloren ihre Glaubwürdigkeit
+credible; glaubwürdig; Is the story credible?; Ist die Geschichte glaubwürdig?
+creep; schleichen; The cat started to creep along the floor; Die Katze begann zu schleichen entlang des Bodens
+critically; kritisch; He was critically injured; Er war kritisch verletzt
+critique; Kritik; They gave her a positive critique; Sie gaben ihr eine positive Kritik
+crown; Krone; The queen wore a crown; Die Königin trug eine Krone
+crude; roh; They used crude oil; Sie benutzten Rohöl
+cruise; Kreuzfahrt; They went on a cruise; Sie gingen auf eine Kreuzfahrt
+crush; zerquetschen; He crushed the can with his foot; Er zerquetschte die Dose mit seinem Fuß
+crystal; Kristall; It was a beautiful crystal glass; Es war ein schönes Kristall Glas
+cue; Stichwort; It was his cue to enter the stage; Es war sein Stichwort um einzutreten die Bühne
+cult; Kult; They were part of a religious cult; Sie waren Teil von einem religiösen Kult
+cultivate; anbauen; They cultivate crops on their land; Sie bauen an Feldfrüchte auf ihrem Land
+curiosity; Neugier; She was filled with curiosity; Sie war erfüllt mit Neugier
+curious; neugierig; He was curious to know the answer; Er war neugierig zu wissen die Antwort
+curriculum; Lehrplan; They are designing a new curriculum; Sie entwerfen einen neuen Lehrplan
+custody; Sorgerecht; She lost custody of her child; Sie verlor Sorgerecht von ihrem Kind
+cute; süß; The puppy was very cute; Der Welpe war sehr süß
+cutting; schneidend; The wind was cutting; Der Wind war schneidend
+cynical; zynisch; He is very cynical about everything; Er ist sehr zynisch über alles
+dairy; Molkerei; The dairy products were very fresh; Die Molkerei Produkte waren sehr frisch
+dam; Damm; They built a dam across the river; Sie bauten einen Damm über den Fluss
+damaging; schädlich; The information was very damaging; Die Informationen waren sehr schädlich
+dare; wagen; She did not dare to say anything; Sie wagte nicht zu sagen irgendetwas
+darkness; Dunkelheit; The darkness was complete; Die Dunkelheit war vollständig
+database; Datenbank; They stored the data in a database; Sie speicherten die Daten in einer Datenbank
+dawn; Morgendämmerung; They left at dawn; Sie verließen bei Morgendämmerung
+deadline; Frist; They missed the deadline; Sie verpassten die Frist
+deadly; tödlich; It was a deadly disease; Es war eine tödliche Krankheit
+dealer; Händler/in; He is a car dealer; Er ist ein Auto Händler
+debris; Trümmer; They cleared the debris after the storm; Sie beseitigten die Trümmer nach dem Sturm
+debut; Debüt; It was her debut on stage; Es war ihr Debüt auf der Bühne
+decision-making; Entscheidungsfindung; They had a meeting about decision-making; Sie hatten ein Treffen über Entscheidungsfindung
+decisive; entscheidend; He took a decisive step; Er machte einen entscheidenden Schritt
+deck; Deck; They sat on the deck; Sie saßen auf dem Deck
+declaration; Erklärung; They signed a declaration; Sie unterschrieben eine Erklärung
+dedicated; engagiert; He is a dedicated worker; Er ist ein engagierter Arbeiter
+dedication; Hingabe; She showed her dedication to her work; Sie zeigte ihre Hingabe zu ihrer Arbeit
+deed; Tat; It was a good deed; Es war eine gute Tat
+deem; halten; They deemed the decision necessary; Sie hielten die Entscheidung notwendig
+default; Standard; It was set to the default settings; Es war eingestellt zu den Standard Einstellungen
+defect; Defekt; There was a defect in the machine; Es gab einen Defekt in der Maschine
+defender; Verteidiger/in; He is a defender of human rights; Er ist ein Verteidiger von Menschenrechten
+defensive; defensiv; He was acting very defensive; Er handelte sehr defensiv
+deficiency; Mangel; There was a deficiency in the budget; Es war ein Mangel in dem Budget
+deficit; Defizit; There was a budget deficit; Es war ein Budget Defizit
+defy; trotzen; They defied the rules; Sie trotzten die Regeln
+delegate; delegieren; They need to delegate the tasks; Sie müssen delegieren die Aufgaben
+delegation; Delegation; The delegation arrived at the meeting; Die Delegation kam an bei dem Treffen
+delete; löschen; They deleted the files; Sie löschten die Dateien
+delicate; empfindlich; The skin is very delicate; Die Haut ist sehr empfindlich
+democracy; Demokratie; They are working to establish democracy; Sie arbeiten um zu errichten Demokratie
+democratic; demokratisch; They voted in a democratic way; Sie wählten auf eine demokratische Weise
+demon; Dämon; They believe in demons; Sie glauben an Dämonen
+demonstration; Demonstration; They held a demonstration; Sie hielten eine Demonstration
+denial; Verleugnung; He issued a denial of the allegations; Er gab heraus eine Verleugnung von den Behauptungen
+denounce; verurteilen; They denounced the actions of the group; Sie verurteilten die Aktionen von der Gruppe
+dense; dicht; The forest was very dense; Der Wald war sehr dicht
+density; Dichte; The density of the population was high; Die Dichte von der Bevölkerung war hoch
+depart; abreisen; They will depart at noon; Sie werden abreisen um Mittag
+dependence; Abhängigkeit; He had a dependence on alcohol; Er hatte eine Abhängigkeit von Alkohol
+dependent; abhängig; He is dependent on his parents; Er ist abhängig von seinen Eltern
+depict; darstellen; The artist depicted the scene; Der Künstler stellte dar die Szene
+deploy; einsetzen; They need to deploy more resources; Sie müssen einsetzen mehr Ressourcen
+deployment; Einsatz; The deployment of troops was necessary; Der Einsatz von Truppen war notwendig
+deposit; Anzahlung/Einzahlung; They paid a deposit on the house; Sie zahlten eine Anzahlung auf das Haus
+depression; Depression; He suffers from depression; Er leidet unter Depression
+deprive; entziehen; They deprived them of their freedom; Sie entzogen ihnen ihre Freiheit
+deputy; Stellvertreter/in; She is the deputy manager; Sie ist die Stellvertreterin Managerin
+derive; ableiten; They derive their income from sales; Sie leiten ihr Einkommen ab von Verkäufen
+descend; absteigen; They descended the mountain; Sie stiegen ab den Berg
+descent; Abstieg; The descent was very dangerous; Der Abstieg war sehr gefährlich
+designate; bestimmen; They need to designate a new leader; Sie müssen bestimmen einen neuen Führer
+desirable; wünschenswert; It is a desirable outcome; Es ist ein wünschenswertes Ergebnis
+desktop; Desktop; The computer is a desktop; Der Computer ist ein Desktop
+desperately; verzweifelt; They were desperately trying to escape; Sie versuchten verzweifelt zu entkommen
+destruction; Zerstörung; There was a lot of destruction; Es war eine Menge von Zerstörung
+destructive; zerstörerisch; It was a very destructive force; Es war eine sehr zerstörerische Kraft
+detain; festhalten; They detained him in custody; Sie hielten fest ihn in Haft
+detection; Aufdeckung; The detection of the crime was very difficult; Die Aufdeckung von dem Verbrechen war sehr schwierig
+detention; Haft; He was held in detention; Er war gehalten in Haft
+deteriorate; verschlechtern; The situation started to deteriorate; Die Situation begann zu verschlechtern
+determination; Entschlossenheit; He showed great determination; Er zeigte große Entschlossenheit
+devastate; verwüsten; The storm devastated the town; Der Sturm verwüstete die Stadt
+devil; Teufel; They believe in the devil; Sie glauben an den Teufel
+devise; entwickeln; They are trying to devise a plan; Sie versuchen zu entwickeln einen Plan
+devote; widmen; She devoted her life to her work; Sie widmete ihr Leben zu ihrer Arbeit
+diagnose; diagnostizieren; They diagnosed the illness; Sie diagnostizierten die Krankheit
+diagnosis; Diagnose; They received a diagnosis; Sie erhielten eine Diagnose
+dictate; diktieren; They dictate the rules; Sie diktieren die Regeln
+dictator; Diktator/in; He was a ruthless dictator; Er war ein rücksichtsloser Diktator
+differ; unterscheiden; The two approaches differ significantly; Die zwei Ansätze unterscheiden sich wesentlich
+differentiate; unterscheiden; They need to differentiate the products; Sie müssen unterscheiden die Produkte
+dignity; Würde; They were treated with dignity; Sie wurden behandelt mit Würde
+dilemma; Dilemma; They faced a difficult dilemma; Sie standen vor einem schwierigen Dilemma
+dimension; Dimension; The box has three dimensions; Die Kiste hat drei Dimensionen
+diminish; verringern; The number of cases started to diminish; Die Anzahl von Fällen begann zu verringern
+dip; tunken; Dip the biscuit into the tea; Tunke den Keks in den Tee
+diplomat; Diplomat/in; She is a senior diplomat; Sie ist eine hochrangige Diplomatin
+diplomatic; diplomatisch; They had a diplomatic relationship; Sie hatten eine diplomatische Beziehung
+directory; Verzeichnis; They looked up the number in the directory; Sie suchten nach der Nummer in dem Verzeichnis
+disability; Behinderung; He has a disability; Er hat eine Behinderung
+disabled; behindert; He is disabled; Er ist behindert
+disagreement; Meinungsverschiedenheit; They had a disagreement; Sie hatten eine Meinungsverschiedenheit
+disappoint; enttäuschen; They didn't want to disappoint him; Sie wollten nicht enttäuschen ihn
+disappointment; Enttäuschung; It was a big disappointment; Es war eine große Enttäuschung
+disastrous; katastrophal; It was a disastrous outcome; Es war ein katastrophales Ergebnis
+discard; wegwerfen; They discarded the old clothes; Sie warfen weg die alte Kleidung
+discharge; entlassen; He was discharged from the hospital; Er wurde entlassen von dem Krankenhaus
+disclose; offenlegen; They disclosed the information; Sie legten offen die Informationen
+disclosure; Offenlegung; They made a full disclosure; Sie machten eine volle Offenlegung
+discourage; entmutigen; They tried to discourage him; Sie versuchten zu entmutigen ihn
+discourse; Diskurs; They had a political discourse; Sie hatten einen politischen Diskurs
+discretion; Ermessen; It is at their discretion; Es ist in ihrem Ermessen
+discrimination; Diskriminierung; They faced racial discrimination; Sie erlebten rassistische Diskriminierung
+dismissal; Entlassung; He faced dismissal from his job; Er drohte Entlassung von seinem Job
+disorder; Störung; He has a sleeping disorder; Er hat eine Schlafstörung
+displace; vertreiben; The storm displaced many people; Der Sturm vertrieb viele Leute
+disposal; Beseitigung; They need a proper waste disposal system; Sie brauchen ein richtiges Müll Beseitigung System
+dispose; beseitigen; They need to dispose of the waste; Sie müssen beseitigen von dem Müll
+dispute; Streitigkeit; There was a dispute over the land; Es war eine Streitigkeit über das Land
+disrupt; stören; The noise will disrupt the meeting; Der Lärm wird stören das Treffen
+disruption; Störung; There was a disruption to the service; Es gab eine Störung zu dem Service
+dissolve; auflösen; The sugar will dissolve in the water; Der Zucker wird auflösen in dem Wasser
+distant; entfernt; They live in a distant town; Sie leben in einer entfernten Stadt
+distinct; deutlich; There was a distinct difference; Es war ein deutlicher Unterschied
+distinction; Unterschied; There is a distinction between the two; Es gibt einen Unterschied zwischen den zwei
+distinctive; unverwechselbar; He has a distinctive style; Er hat einen unverwechselbaren Stil
+distinguish; unterscheiden; They can distinguish between the two; Sie können unterscheiden zwischen den zwei
+distort; verzerren; They distorted the truth; Sie verzerrten die Wahrheit
+distract; ablenken; The noise was distracting; Der Lärm war ablenkend
+distress; Notlage; They were in distress; Sie waren in Notlage
+disturb; stören; Please do not disturb; Bitte nicht stören
+disturbing; beunruhigend; It was a disturbing report; Es war ein beunruhigender Bericht
+dive; tauchen; He likes to dive in the sea; Er mag zu tauchen in dem Meer
+diverse; vielfältig; They have diverse cultures; Sie haben vielfältige Kulturen
+diversity; Vielfalt; They value diversity in their company; Sie schätzen Vielfalt in ihrer Firma
+divert; ablenken; They tried to divert attention; Sie versuchten abzulenken Aufmerksamkeit
+divine; göttlich; She is seen as a divine being; Sie ist gesehen als ein göttliches Wesen
+divorce; Scheidung; They are getting a divorce; Sie bekommen eine Scheidung
+doctrine; Lehre; They followed a specific doctrine; Sie folgten einer spezifischen Lehre
+documentation; Dokumentation; They needed the correct documentation; Sie brauchten die korrekte Dokumentation
+domain; Bereich; This is in his domain; Das ist in seinem Bereich
+dominance; Dominanz; They sought dominance in the market; Sie suchten Dominanz in dem Markt
+dominant; dominant; They are the dominant team; Sie sind das dominante Team
+donation; Spende; They gave a donation to charity; Sie gaben eine Spende zu Wohltätigkeit
+donor; Spender/in; He is a blood donor; Er ist ein Blut Spender
+dose; Dosis; They took a prescribed dose of medicine; Sie nahmen eine verschriebene Dosis von Medizin
+dot; Punkt; There was a small dot on the paper; Es war ein kleiner Punkt auf dem Papier
+downtown; Innenstadt; They live downtown; Sie leben Innenstadt
+drain; abfließen; The water will drain away; Das Wasser wird abfließen weg
+dramatically; dramatisch; The situation changed dramatically; Die Situation änderte sich dramatisch
+drift; treiben; The boat started to drift; Das Boot begann zu treiben
+driving; Autofahren; He is good at driving; Er ist gut im Autofahren
+drought; Dürre; The region is experiencing a drought; Die Region erlebt eine Dürre
+drown; ertrinken; They nearly drowned in the river; Sie beinahe ertranken in dem Fluss
+dual; dual; They have a dual role; Sie haben eine duale Rolle
+dub; nennen; They dubbed him king; Sie nannten ihn König
+dull; langweilig; The meeting was very dull; Das Treffen war sehr langweilig
+dumb; dumm; That was a dumb idea; Das war eine dumme Idee
+dump; Müllhalde; They dumped the rubbish here; Sie warfen den Müll hier
+duo; Duo; They are a musical duo; Sie sind ein musikalisches Duo
+duration; Dauer; The duration of the meeting was very long; Die Dauer von dem Treffen war sehr lang
+dynamic; dynamisch; The market is very dynamic; Der Markt ist sehr dynamisch
+eager; eifrig; He was eager to start the project; Er war eifrig zu starten das Projekt
+earnings; Einkommen; Their earnings are very high; Ihr Einkommen ist sehr hoch
+ease; Leichtigkeit; They completed it with ease; Sie beendeten es mit Leichtigkeit
+echo; Echo; Her words echoed in the empty room; Ihre Worte hallten in dem leeren Raum
+ecological; ökologisch; They are concerned about the ecological impact; Sie sind besorgt über den ökologischen Einfluss
+economics; Wirtschaftswissenschaften; She studied economics at university; Sie studierte Wirtschaftswissenschaften an der Universität
+economist; Wirtschaftswissenschaftler/in; He is a well-known economist; Er ist ein bekannter Wirtschaftswissenschaftler
+editorial; Leitartikel; He read the editorial in the newspaper; Er las den Leitartikel in der Zeitung
+educator; Pädagoge/in; She is a dedicated educator; Sie ist eine engagierte Pädagogin
+effectiveness; Wirksamkeit; They are evaluating the effectiveness of the program; Sie bewerten die Wirksamkeit von dem Programm
+efficiency; Effizienz; The system works with great efficiency; Das System arbeitet mit großer Effizienz
+efficiently; effizient; They worked efficiently; Sie arbeiteten effizient
+ego; Ego; He has a big ego; Er hat ein großes Ego
+elaborate; ausführlich; He gave an elaborate explanation; Er gab eine ausführliche Erklärung
+elbow; Ellenbogen; He hurt his elbow; Er verletzte seinen Ellenbogen
+electoral; Wahl-; They discussed the electoral system; Sie diskutierten das Wahl System
+electronics; Elektronik; They work in electronics; Sie arbeiten in Elektronik
+elegant; elegant; The room was very elegant; Der Raum war sehr elegant
+elementary; elementar; It was elementary school; Es war elementare Schule
+elevate; erhöhen; They elevated the platform; Sie erhöhten die Plattform
+eligible; berechtigt; He is eligible for the prize; Er ist berechtigt für den Preis
+eliminate; beseitigen; They need to eliminate the problem; Sie müssen beseitigen das Problem
+elite; Elite; They are part of the elite; Sie sind Teil von der Elite
+embark; beginnen; They will embark on the journey tomorrow; Sie werden beginnen auf die Reise morgen
+embarrassment; Peinlichkeit; It was a big embarrassment; Es war eine große Peinlichkeit
+embassy; Botschaft; They went to the embassy; Sie gingen zu der Botschaft
+embed; einbetten; They need to embed the code; Sie müssen einbetten den Code
+embody; verkörpern; He embodies the values; Er verkörpert die Werte
+embrace; annehmen; They embraced the idea; Sie nahmen an die Idee
+emergence; Entstehung; The emergence of new technologies; Die Entstehung von neuen Technologien
+emission; Emission; The factory emits pollution; Die Fabrik emittiert Verschmutzung
+emotionally; emotional; He was emotionally affected; Er war emotional betroffen
+empire; Imperium; The Roman empire was very large; Das Römische Imperium war sehr groß
+empirical; empirisch; The study is based on empirical evidence; Die Studie ist basiert auf empirischen Beweisen
+empower; ermächtigen; They are working to empower women; Sie arbeiten um zu ermächtigen Frauen
+enact; erlassen; They will enact the law; Sie werden erlassen das Gesetz
+encompass; umfassen; The report encompasses all the issues; Der Bericht umfasst alle die Themen
+encouragement; Ermutigung; They gave him a lot of encouragement; Sie gaben ihm eine Menge von Ermutigung
+encouraging; ermutigend; The news was encouraging; Die Nachrichten waren ermutigend
+endeavour; Bemühung; They are continuing their endeavour; Sie setzen fort ihre Bemühung
+endless; endlos; The road seemed endless; Die Straße schien endlos
+endorse; befürworten; They endorsed the proposal; Sie befürworteten den Vorschlag
+endorsement; Befürwortung; The politician received a strong endorsement; Der Politiker erhielt eine starke Befürwortung
+endure; aushalten; They had to endure hardship; Sie mussten aushalten Not
+enforce; durchsetzen; They need to enforce the rules; Sie müssen durchsetzen die Regeln
+enforcement; Durchsetzung; They are responsible for the enforcement of the law; Sie sind verantwortlich für die Durchsetzung von dem Gesetz
+engagement; Verpflichtung; They had a business engagement; Sie hatten eine geschäftliche Verpflichtung
+engaging; fesselnd; The book was very engaging; Das Buch war sehr fesselnd
+enjoyable; angenehm; The experience was very enjoyable; Die Erfahrung war sehr angenehm
+enquire; anfragen; They need to enquire about the details; Sie müssen anfragen über die Details
+enrich; bereichern; They try to enrich the lives of others; Sie versuchen zu bereichern die Leben von Anderen
+enrol; einschreiben; They need to enrol on the course; Sie müssen einschreiben auf dem Kurs
+ensue; folgen; A fight ensued; Ein Kampf folgte
+enterprise; Unternehmen; It is a small enterprise; Es ist ein kleines Unternehmen
+entertaining; unterhaltsam; The show was very entertaining; Die Show war sehr unterhaltsam
+enthusiast; Enthusiast/in; He is a keen sports enthusiast; Er ist ein eifriger Sport Enthusiast
+entitle; berechtigen; This entitles you to free travel; Das berechtigt dich zu kostenlosem Reisen
+entity; Einheit; The company is a separate entity; Die Firma ist eine separate Einheit
+entrepreneur; Unternehmer/in; She is a successful entrepreneur; Sie ist eine erfolgreiche Unternehmerin
+envelope; Umschlag; Put the letter in the envelope; Lege den Brief in den Umschlag
+epidemic; Epidemie; They faced a serious epidemic; Sie erlebten eine ernste Epidemie
+equality; Gleichheit; They are fighting for equality; Sie kämpfen für Gleichheit
+equation; Gleichung; He solved the equation; Er löste die Gleichung
+equip; ausstatten; They need to equip the soldiers; Sie müssen ausstatten die Soldaten
+equivalent; gleichwertig; It was equivalent to 10 dollars; Es war gleichwertig zu 10 Dollar
+era; Ära; It was the start of a new era; Es war der Start von einer neuen Ära
+erect; errichten; They will erect a new building; Sie werden errichten ein neues Gebäude
+erupt; ausbrechen; The volcano started to erupt; Der Vulkan begann ausbrechen
+escalate; eskalieren; The conflict started to escalate; Der Konflikt begann zu eskalieren
+essence; Wesen; The essence of the matter is this; Das Wesen von der Angelegenheit ist dies
+essentially; im Wesentlichen; It is essentially the same thing; Es ist im Wesentlichen das gleiche Ding
+establishment; Einrichtung; They run an educational establishment; Sie leiten eine Bildungseinrichtung
+eternal; ewig; It is an eternal flame; Es ist eine ewige Flamme
+ethic; Ethik; They follow a strict ethic; Sie folgen einer strengen Ethik
+ethnic; ethnisch; The group are ethnically diverse; Die Gruppe ist ethnisch vielfältig
+evacuate; evakuieren; They had to evacuate the area; Sie mussten evakuieren die Gegend
+evaluation; Bewertung; They did an evaluation of the system; Sie machten eine Bewertung von dem System
+evident; offensichtlich; It was evident that they were happy; Es war offensichtlich, dass sie waren glücklich
+evoke; hervorrufen; The memory evoked strong feelings; Die Erinnerung rief hervor starke Gefühle
+evolution; Evolution; They studied the evolution of the species; Sie studierten die Evolution von der Art
+evolutionary; evolutionär; It is an evolutionary process; Es ist ein evolutionärer Prozess
+evolve; entwickeln; The company continues to evolve; Die Firma setzt fort zu entwickeln
+exaggerate; übertreiben; He tends to exaggerate; Er neigt zu übertreiben
+exceed; übertreffen; The result exceeded their expectations; Das Ergebnis übertraf ihre Erwartungen
+excellence; Exzellenz; They strive for excellence; Sie streben nach Exzellenz
+exception; Ausnahme; There is an exception to the rule; Es gibt eine Ausnahme zu der Regel
+exceptional; außergewöhnlich; He was an exceptional student; Er war ein außergewöhnlicher Student
+excess; Überschuss; They had an excess of food; Sie hatten einen Überschuss von Essen
+excessive; übermäßig; The spending was excessive; Die Ausgaben waren übermäßig
+exclude; ausschließen; They excluded some people from the list; Sie schlossen aus einige Leute von der Liste
+exclusion; Ausschluss; They faced social exclusion; Sie erlebten sozialen Ausschluss
+exclusive; exklusiv; This is an exclusive offer; Das ist ein exklusives Angebot
+exclusively; ausschließlich; They are working exclusively on that project; Sie arbeiten ausschließlich an dem Projekt
+execute; ausführen; They need to execute the plan; Sie müssen ausführen den Plan
+execution; Ausführung; They had a problem with the execution of the plan; Sie hatten ein Problem mit der Ausführung von dem Plan
+exert; ausüben; They had to exert a lot of effort; Sie mussten ausüben eine Menge von Anstrengung
+exhibit; ausstellen; They will exhibit the paintings; Sie werden ausstellen die Gemälde
+exile; Exil; He lived in exile for many years; Er lebte in Exil für viele Jahre
+exit; Ausgang; The exit is over there; Der Ausgang ist dort
+exotic; exotisch; They have some exotic animals; Sie haben einige exotische Tiere
+expansion; Ausdehnung; They plan an expansion of the business; Sie planen eine Ausdehnung von dem Geschäft
+expenditure; Ausgaben; They need to control their expenditure; Sie müssen kontrollieren ihre Ausgaben
+experimental; experimentell; It was an experimental approach; Es war ein experimenteller Ansatz
+expertise; Fachwissen; They have expertise in the field; Sie haben Fachwissen in dem Feld
+expire; ablaufen; The contract will expire next year; Der Vertrag wird ablaufen nächstes Jahr
+explicit; ausdrücklich; They gave explicit instructions; Sie gaben ausdrückliche Anweisungen
+explicitly; ausdrücklich; They were explicitly told not to go; Sie waren ausdrücklich gesagt nicht zu gehen
+exploit; ausbeuten; They exploited the workers; Sie beuteten aus die Arbeiter
+exploitation; Ausbeutung; They are fighting against worker exploitation; Sie kämpfen gegen Arbeiter Ausbeutung
+explosive; explosiv; The situation was very explosive; Die Situation war sehr explosiv
+exposure; Exposition; They had an exposure to the sun; Sie hatten eine Exposition zu der Sonne
+extension; Erweiterung; They are planning an extension to the building; Sie planen eine Erweiterung zu dem Gebäude
+extensive; umfangreich; They did extensive research; Sie machten umfangreiche Forschung
+extensively; ausführlich; They travelled extensively; Sie reisten ausführlich
+extract; extrahieren; They extracted the oil; Sie extrahierten das Öl
+extremist; Extremist/in; He is an extremist; Er ist ein Extremist
+fabric; Stoff; The dress is made of a delicate fabric; Das Kleid ist gemacht aus einem empfindlichen Stoff
+fabulous; fabelhaft; The view was fabulous; Die Aussicht war fabelhaft
+facilitate; erleichtern; They are working to facilitate communication; Sie arbeiten um zu erleichtern Kommunikation
+faction; Fraktion; There was a faction within the party; Es war eine Fraktion innerhalb der Partei
+faculty; Fakultät; She is a member of the faculty; Sie ist ein Mitglied von der Fakultät
+fade; verblassen; The colour started to fade; Die Farbe begann zu verblassen
+failed; gescheitert; They failed to reach an agreement; Sie scheiterten zu erreichen eine Übereinkunft
+fairness; Fairness; They valued fairness; Sie schätzten Fairness
+fake; gefälscht; The painting was a fake; Das Gemälde war ein gefälscht
+fame; Ruhm; He achieved fame after the movie; Er erlangte Ruhm nach dem Film
+fantasy; Fantasie; She lived in a fantasy world; Sie lebte in einer Fantasie Welt
+fare; Fahrpreis; They paid the bus fare; Sie zahlten den Bus Fahrpreis
+fatal; tödlich; It was a fatal mistake; Es war ein tödlicher Fehler
+fate; Schicksal; He believed in fate; Er glaubte an Schicksal
+favourable; günstig; They received a favourable response; Sie erhielten eine günstige Antwort
+feat; Leistung; It was a remarkable feat; Es war eine bemerkenswerte Leistung
+federal; bundesstaatlich; They are part of the federal government; Sie sind Teil von der bundesstaatlichen Regierung
+feeding; Fütterung; The feeding of the animals was well planned; Die Fütterung von den Tieren war gut geplant
+feminist; Feminist/in; She is a feminist; Sie ist eine Feministin
+fever; Fieber; He had a high fever; Er hatte ein hohes Fieber
+fibre; Faser; The cloth is made of natural fibres; Das Tuch ist gemacht aus natürlichen Fasern
+fierce; heftig; There was a fierce storm; Es war ein heftiger Sturm
+film-maker; Filmemacher/in; She is a successful film-maker; Sie ist eine erfolgreiche Filmemacherin
+filter; Filter; The filter removes impurities; Der Filter entfernt Unreinheiten
+fine; fein; The sand was very fine; Der Sand war sehr fein
+firearm; Schusswaffe; He was carrying a firearm; Er trug eine Schusswaffe
+firefighter; Feuerwehrmann/frau; The firefighters arrived quickly; Die Feuerwehrleute kamen schnell an
+firework; Feuerwerk; They watched the fireworks; Sie schauten die Feuerwerke
+firm; fest; They had a firm grip; Sie hatten einen festen Griff
+firmly; fest; They were held firmly in place; Sie wurden gehalten fest in Platz
+fit; passen; The shoes fit well; Die Schuhe passen gut
+fixture; Einrichtung; The lighting is a new fixture; Die Beleuchtung ist eine neue Einrichtung
+flavour; Geschmack; The soup had a nice flavour; Die Suppe hatte einen schönen Geschmack
+flaw; Fehler; There was a flaw in the design; Es war ein Fehler in dem Design
+flawed; fehlerhaft; The argument was flawed; Die Argumentation war fehlerhaft
+flee; fliehen; They had to flee the country; Sie mussten fliehen das Land
+fleet; Flotte; The navy has a large fleet of ships; Die Marine hat eine große Flotte von Schiffen
+flesh; Fleisch; The animal had very little flesh; Das Tier hatte sehr wenig Fleisch
+flexibility; Flexibilität; They need more flexibility; Sie brauchen mehr Flexibilität
+flourish; gedeihen; The plants started to flourish; Die Pflanzen begannen zu gedeihen
+fluid; flüssig; The water is a fluid; Das Wasser ist ein flüssig
+fond; gern haben; He is very fond of chocolate; Er hat sehr gern Schokolade
+fool; Narr; Do not be a fool; Sei kein Narr
+footage; Filmmaterial; They showed some footage of the event; Sie zeigten etwas Filmmaterial von dem Ereignis
+forbid; verbieten; They forbid them from entering; Sie verbieten ihnen von Betreten
+forecast; Vorhersage; They gave a weather forecast; Sie gaben eine Wettervorhersage
+foreigner; Ausländer/in; He is a foreigner; Er ist ein Ausländer
+forge; fälschen; They tried to forge the signature; Sie versuchten zu fälschen die Unterschrift
+format; Format; They needed to change the format; Sie brauchten zu ändern das Format
+formation; Formation; The birds flew in formation; Die Vögel flogen in Formation
+formerly; früher; She was formerly a teacher; Sie war früher eine Lehrerin
+formula; Formel; They used a mathematical formula; Sie benutzten eine mathematische Formel
+formulate; formulieren; They need to formulate a plan; Sie müssen formulieren einen Plan
+forth; hervor; They came forth with the plan; Sie kamen hervor mit dem Plan
+forthcoming; bevorstehend; The election is forthcoming; Die Wahl ist bevorstehend
+fortunate; glücklich; They were fortunate to survive; Sie waren glücklich zu überleben
+forum; Forum; They discussed the issue in a public forum; Sie diskutierten das Thema in einem öffentlichen Forum
+fossil; Fossil; They found a fossil; Sie fanden ein Fossil
+foster; fördern; They want to foster innovation; Sie wollen fördern Innovation
+foundation; Stiftung/Fundament; They set up a foundation; Sie richteten ein Stiftung
+founder; Gründer/in; He was the founder of the company; Er war der Gründer von der Firma
+fraction; Bruchteil; They only got a fraction of what they wanted; Sie bekamen nur einen Bruchteil von was sie wollten
+fragile; zerbrechlich; The glass was very fragile; Das Glas war sehr zerbrechlich
+fragment; Fragment; They found a fragment of the vase; Sie fanden ein Fragment von der Vase
+framework; Rahmen; They set up a framework for the project; Sie richteten ein Rahmen für das Projekt
+franchise; Franchise; They own a franchise of the company; Sie besitzen eine Franchise von der Firma
+frankly; offen gesagt; Frankly, I think it is a bad idea; Offen gesagt, ich denke es ist eine schlechte Idee
+fraud; Betrug; They committed fraud; Sie begingen Betrug
+freely; frei; They could move freely; Sie konnten sich bewegen frei
+frequent; häufig; They are frequent visitors; Sie sind häufige Besucher
+frustrated; frustriert; He was very frustrated; Er war sehr frustriert
+frustrating; frustrierend; It was a very frustrating experience; Es war eine sehr frustrierende Erfahrung
+frustration; Frustration; He was filled with frustration; Er war gefüllt mit Frustration
+fulfil; erfüllen; They had to fulfil their obligations; Sie mussten erfüllen ihre Verpflichtungen
+full-time; Vollzeit; They work full-time; Sie arbeiten Vollzeit
+functional; funktional; The design was functional; Das Design war funktional
+fundamentally; grundlegend; It is fundamentally different; Es ist grundlegend anders
+fundraising; Spendenaktion; They did a lot of fundraising; Sie machten eine Menge von Spendenaktion
+funeral; Beerdigung; They went to the funeral; Sie gingen zu der Beerdigung
+furious; wütend; He was furious about it; Er war wütend darüber
+gallon; Gallone; They bought a gallon of milk; Sie kauften eine Gallone von Milch
+gambling; Glücksspiel; He has a problem with gambling; Er hat ein Problem mit Glücksspiel
+gaming; Spielen; They enjoy online gaming; Sie genießen online Spielen
+gathering; Versammlung; There was a large gathering of people; Es war eine große Versammlung von Leuten
+gay; schwul; He is gay; Er ist schwul
+gaze; starren; They gazed at the stars; Sie starrten an die Sterne
+gear; Ausrüstung; They had all the necessary gear; Sie hatten alle die notwendige Ausrüstung
+gender; Geschlecht; They studied gender issues; Sie studierten Geschlechts Themen
+gene; Gen; They identified a faulty gene; Sie identifizierten ein fehlerhaftes Gen
+generic; generisch; It is a generic drug; Es ist ein generisches Medikament
+genetic; genetisch; They studied genetic disorders; Sie studierten genetische Störungen
+genius; Genie; He is a genius at mathematics; Er ist ein Genie in Mathematik
+genocide; Völkermord; The war led to genocide; Der Krieg führte zu Völkermord
+genuine; echt; It was a genuine antique; Es war ein echtes Antik
+genuinely; wirklich; They were genuinely happy; Sie waren wirklich glücklich
+gesture; Geste; She made a gesture with her hands; Sie machte eine Geste mit ihren Händen
+gig; Auftritt; The band had a gig in town; Die Band hatte einen Auftritt in Stadt
+glance; Blick; She gave him a quick glance; Sie gab ihm einen schnellen Blick
+glimpse; flüchtig sehen; He got a glimpse of the car; Er bekam einen flüchtigen Blick von dem Auto
+globalization; Globalisierung; Globalization is an important phenomenon; Globalisierung ist ein wichtiges Phänomen
+globe; Globus; The earth is a globe; Die Erde ist ein Globus
+glorious; herrlich; It was a glorious day; Es war ein herrlicher Tag
+glory; Ruhm; They fought for glory; Sie kämpften für Ruhm
+golden; golden; They found a golden ring; Sie fanden einen goldenen Ring
+goodness; Güte; He is full of goodness; Er ist voll von Güte
+gorgeous; wunderschön; She looked gorgeous; Sie sah wunderschön aus
+governance; Staatsführung; They have good governance; Sie haben gute Staatsführung
+governor; Gouverneur/in; He is the governor of the state; Er ist der Gouverneur von dem Staat
+grace; Anmut; She had grace when she danced; Sie hatte Anmut als sie tanzte
+graphic; grafisch; The image was very graphic; Das Bild war sehr grafisch
+graphics; Grafik; They worked on the graphics for the game; Sie arbeiteten an der Grafik für das Spiel
+grasp; greifen; He tried to grasp the idea; Er versuchte zu greifen die Idee
+grave; Grab; He was buried in a grave; Er war begraben in einem Grab
+gravity; Schwerkraft; They studied gravity; Sie studierten Schwerkraft
+greatly; sehr; He was greatly affected; Er war sehr betroffen
+greenhouse; Treibhaus; They grew vegetables in a greenhouse; Sie bauten Gemüse in einem Treibhaus an
+grid; Gitter; The city was laid out in a grid; Die Stadt war ausgelegt in einem Gitter
+grief; Trauer; She felt great grief after his death; Sie fühlte große Trauer nach seinem Tod
+grin; grinsen; He gave a wide grin; Er gab ein breites Grinsen
+grind; mahlen; They grind the coffee beans; Sie mahlen die Kaffeebohnen
+grip; Griff; He had a strong grip; Er hatte einen starken Griff
+grocery; Lebensmittel; They bought groceries; Sie kauften Lebensmittel
+guerrilla; Guerilla; They were a guerrilla group; Sie waren eine Guerilla Gruppe
+guidance; Anleitung; They received guidance from the teacher; Sie erhielten Anleitung von dem Lehrer
+guideline; Richtlinie; They followed the guidelines; Sie folgten den Richtlinien
+guilt; Schuld; He felt guilt about what he did; Er fühlte Schuld über was er tat
+gut; Bauch; He had a pain in his gut; Er hatte einen Schmerz in seinem Bauch
+habitat; Lebensraum; The destruction of the habitat threatened the animals; Die Zerstörung von dem Lebensraum bedrohte die Tiere
+hail; hageln; It started to hail; Es begann zu hageln
+halfway; halb; They were halfway through the journey; Sie waren halb durch die Reise
+halt; anhalten; They had to halt the project; Sie mussten anhalten das Projekt
+handful; Handvoll; He had a handful of sweets; Er hatte eine Handvoll von Süßigkeiten
+handling; Handhabung; They were responsible for the handling of the goods; Sie waren verantwortlich für die Handhabung von den Gütern
+handy; praktisch; It is very handy to have a car; Es ist sehr praktisch zu haben ein Auto
+harassment; Belästigung; They faced workplace harassment; Sie erlebten Arbeitsplatz Belästigung
+harbour; Hafen; The boats came into the harbour; Die Boote kamen in den Hafen
+hardware; Hardware; They sell computer hardware; Sie verkaufen Computer Hardware
+harmony; Harmonie; They lived in harmony; Sie lebten in Harmonie
+harsh; hart; The conditions were very harsh; Die Bedingungen waren sehr hart
+harvest; Ernte; It was time for the harvest; Es war Zeit für die Ernte
+hatred; Hass; He was filled with hatred; Er war gefüllt mit Hass
+haunt; heimsuchen; The ghost haunted the house; Der Geist suchte heim das Haus
+hazard; Gefahr; There was a fire hazard; Es war eine Feuer Gefahr
+headquarters; Hauptquartier; The headquarters of the company is in London; Das Hauptquartier von der Firma ist in London
+heal; heilen; The wound will heal slowly; Die Wunde wird heilen langsam
+healthcare; Gesundheitswesen; They work in the healthcare industry; Sie arbeiten in der Gesundheitswesen Industrie
+heighten; erhöhen; They tried to heighten the tension; Sie versuchten zu erhöhen die Spannung
+helmet; Helm; He was wearing a helmet; Er trug einen Helm
+hence; daher; The price was high, hence they did not buy it; Der Preis war hoch, daher sie kauften es nicht
+herb; Kraut; They used herbs in the cooking; Sie benutzten Kräuter in dem Kochen
+heritage; Erbe; They need to protect their heritage; Sie müssen schützen ihr Erbe
+hidden; versteckt; The key was hidden; Der Schlüssel war versteckt
+hierarchy; Hierarchie; There is a strict hierarchy in the company; Es gibt eine strenge Hierarchie in der Firma
+high-profile; hochkarätig; He is a high-profile politician; Er ist ein hochkarätiger Politiker
+highway; Autobahn; They drove on the highway; Sie fuhren auf der Autobahn
+hilarious; urkomisch; The show was hilarious; Die Show war urkomisch
+hint; Hinweis; She gave him a hint; Sie gab ihm einen Hinweis
+hip; Hüfte; He injured his hip; Er verletzte seine Hüfte
+historian; Historiker/in; She is a well-known historian; Sie ist eine bekannte Historikerin
+homeland; Heimat; He returned to his homeland; Er kehrte zurück zu seiner Heimat
+homeless; obdachlos; He was homeless; Er war obdachlos
+honesty; Ehrlichkeit; They valued honesty; Sie schätzten Ehrlichkeit
+hook; Haken; He hung the coat on the hook; Er hängte den Mantel an den Haken
+hopeful; hoffnungsvoll; They were hopeful for the future; Sie waren hoffnungsvoll für die Zukunft
+hopefully; hoffentlich; Hopefully, we will win; Hoffentlich, wir werden gewinnen
+horizon; Horizont; They looked out at the horizon; Sie schauten hinaus auf den Horizont
+horn; Horn; The car had a loud horn; Das Auto hatte ein lautes Horn
+hostage; Geisel; They held them hostage; Sie hielten sie Geisel
+hostile; feindselig; They had a hostile reaction; Sie hatten eine feindselige Reaktion
+hostility; Feindseligkeit; There was a lot of hostility between them; Es war eine Menge von Feindseligkeit zwischen ihnen
+humanitarian; humanitär; They provided humanitarian aid; Sie stellten humanitäre Hilfe
+humanity; Menschheit; He had a great belief in humanity; Er hatte einen großen Glauben an die Menschheit
+humble; bescheiden; He was very humble; Er war sehr bescheiden
+hunger; Hunger; They are suffering from hunger; Sie leiden unter Hunger
+hydrogen; Wasserstoff; Water is made of hydrogen and oxygen; Wasser ist gemacht aus Wasserstoff und Sauerstoff
+hypothesis; Hypothese; They tested the hypothesis; Sie testeten die Hypothese
+icon; Ikone; She is a cultural icon; Sie ist eine kulturelle Ikone
+identical; identisch; The two cars were identical; Die zwei Autos waren identisch
+identification; Identifikation; They needed identification; Sie brauchten Identifikation
+ideological; ideologisch; They had different ideological views; Sie hatten verschiedene ideologische Ansichten
+ideology; Ideologie; They followed a strict ideology; Sie folgten einer strengen Ideologie
+idiot; Idiot; He acted like an idiot; Er handelte wie ein Idiot
+ignorance; Ignoranz; They showed ignorance about the matter; Sie zeigten Ignoranz über die Angelegenheit
+illusion; Illusion; It was just an illusion; Es war nur eine Illusion
+imagery; Bildsprache; The book used vivid imagery; Das Buch benutzte lebendige Bildsprache
+immense; immens; The project was immense; Das Projekt war immens
+immigration; Einwanderung; They discussed immigration policies; Sie diskutierten Einwanderungs Politiken
+imminent; unmittelbar; The threat was imminent; Die Bedrohung war unmittelbar
+immune; immun; He is immune to the disease; Er ist immun zu der Krankheit
+implement; umsetzen; They need to implement the plan; Sie müssen umsetzen den Plan
+implementation; Umsetzung; The implementation of the plan was difficult; Die Umsetzung von dem Plan war schwierig
+implication; Auswirkung; There were serious implications; Es gab ernste Auswirkungen
+imprison; inhaftieren; They imprisoned him for his crimes; Sie inhaftierten ihn für seine Verbrechen
+imprisonment; Inhaftierung; He received a sentence of imprisonment; Er erhielt eine Strafe von Inhaftierung
+inability; Unfähigkeit; He had an inability to walk; Er hatte eine Unfähigkeit zu laufen
+inadequate; unzureichend; The resources were inadequate; Die Ressourcen waren unzureichend
+inappropriate; unangemessen; His behaviour was inappropriate; Sein Verhalten war unangemessen
+incentive; Anreiz; They offered an incentive for new employees; Sie boten einen Anreiz für neue Angestellte
+incidence; Häufigkeit; They studied the incidence of the disease; Sie studierten die Häufigkeit von der Krankheit
+inclined; geneigt; He is inclined to agree; Er ist geneigt zuzustimmen
+inclusion; Inklusion; They are working towards inclusion; Sie arbeiten hin zu Inklusion
+incorporate; einbeziehen; They will incorporate the new ideas; Sie werden einbeziehen die neuen Ideen
+incorrect; falsch; The answer was incorrect; Die Antwort war falsch
+incur; verursachen; They will incur costs; Sie werden verursachen Kosten
+independence; Unabhängigkeit; They fought for independence; Sie kämpften für Unabhängigkeit
+index; Index; They used an index; Sie benutzten einen Index
+indication; Anzeichen; There was no indication of trouble; Es war kein Anzeichen von Ärger
+indicator; Indikator; They use economic indicators; Sie benutzen wirtschaftliche Indikatoren
+indictment; Anklage; The indictment was filed; Die Anklage wurde eingereicht
+indigenous; indigen; They are indigenous people; Sie sind indigene Leute
+induce; veranlassen; They tried to induce him to go; Sie versuchten zu veranlassen ihn zu gehen
+indulge; nachgeben; He likes to indulge in chocolate; Er mag nachzugeben in Schokolade
+inequality; Ungleichheit; They are fighting against inequality; Sie kämpfen gegen Ungleichheit
+inevitable; unvermeidlich; It was inevitable that it would happen; Es war unvermeidlich, dass es würde passieren
+infamous; berüchtigt; He was an infamous criminal; Er war ein berüchtigter Krimineller
+infant; Säugling; She has a new infant; Sie hat ein neues Säugling
+infect; infizieren; The virus can infect humans; Der Virus kann infizieren Menschen
+infer; schließen; They can infer that he is lying; Sie können schließen, dass er lügt
+inflation; Inflation; They discussed the rise in inflation; Sie diskutierten den Anstieg in Inflation
+inflict; zufügen; They inflicted pain on the victim; Sie fügten zu Schmerz auf das Opfer
+influential; einflussreich; He is an influential figure; Er ist eine einflussreiche Figur
+info; Info; They gave me some info; Sie gaben mir etwas Info
+infrastructure; Infrastruktur; They need to improve the infrastructure; Sie müssen verbessern die Infrastruktur
+inhabitant; Einwohner/in; The inhabitants of the village were friendly; Die Einwohner von dem Dorf waren freundlich
+inherent; inhärent; There is an inherent risk; Es gibt ein inhärentes Risiko
+inherit; erben; He will inherit the property; Er wird erben die Immobilie
+inhibit; hemmen; The medicine will inhibit the growth; Das Medikament wird hemmen das Wachstum
+initiate; initiieren; They initiated the project; Sie initiierten das Projekt
+inject; injizieren; They need to inject the medicine; Sie müssen injizieren die Medizin
+injection; Injektion; They gave him an injection; Sie gaben ihm eine Injektion
+injustice; Ungerechtigkeit; They protested against injustice; Sie protestierten gegen Ungerechtigkeit
+ink; Tinte; The pen was out of ink; Der Stift war aus Tinte
+inmate; Insasse/Insassin; The inmates protested; Die Insassen protestierten
+innovation; Innovation; They focused on innovation; Sie fokussierten auf Innovation
+innovative; innovativ; They had an innovative approach; Sie hatten einen innovativen Ansatz
+input; Eingabe; They needed input from the team; Sie brauchten Eingabe von dem Team
+insert; einfügen; They need to insert the key; Sie müssen einfügen den Schlüssel
+insertion; Einfügung; The insertion was difficult; Die Einfügung war schwierig
+insider; Insider/in; He was an insider in the company; Er war ein Insider in der Firma
+inspect; inspizieren; They need to inspect the car; Sie müssen inspizieren das Auto
+inspection; Inspektion; They did an inspection of the building; Sie machten eine Inspektion von dem Gebäude
+inspector; Inspektor/in; He is a safety inspector; Er ist ein Sicherheits Inspektor
+inspiration; Inspiration; She found inspiration in the museum; Sie fand Inspiration in dem Museum
+installation; Installation; The installation was difficult; Die Installation war schwierig
+instant; sofortig; It was an instant success; Es war ein sofortiger Erfolg
+instantly; sofort; The door opened instantly; Die Tür öffnete sich sofort
+instinct; Instinkt; He trusted his instinct; Er vertraute seinem Instinkt
+institutional; institutionell; They have institutional problems; Sie haben institutionelle Probleme
+instruct; anweisen; They instructed him to leave; Sie wiesen ihn an zu verlassen
+instrumental; instrumentell; The music was instrumental; Die Musik war instrumentell
+insufficient; ungenügend; They had insufficient resources; Sie hatten ungenügende Ressourcen
+insult; beleidigen; He insulted her; Er beleidigte sie
+intact; intakt; The building was still intact; Das Gebäude war noch intakt
+intake; Aufnahme; They monitored his fluid intake; Sie überwachten seine Flüssigkeits Aufnahme
+integral; integral; It was an integral part of the system; Es war ein integraler Teil von dem System
+integrate; integrieren; They tried to integrate them into society; Sie versuchten zu integrieren sie in die Gesellschaft
+integrated; integriert; It was an integrated system; Es war ein integriertes System
+integration; Integration; They worked on social integration; Sie arbeiteten an sozialer Integration
+integrity; Integrität; They acted with integrity; Sie handelten mit Integrität
+intellectual; intellektuell; He is an intellectual; Er ist ein Intellektueller
+intensify; intensivieren; They need to intensify their efforts; Sie müssen intensivieren ihre Bemühungen
+intensity; Intensität; The intensity of the storm was very high; Die Intensität von dem Sturm war sehr hoch
+intensive; intensiv; They had an intensive course; Sie hatten einen intensiven Kurs
+intent; Absicht; What was his intent?; Was war seine Absicht?
+interact; interagieren; They need to interact with each other; Sie müssen interagieren mit einander
+interaction; Interaktion; The interaction was good; Die Interaktion war gut
+interactive; interaktiv; The game was very interactive; Das Spiel war sehr interaktiv
+interface; Schnittstelle; They used a graphical interface; Sie benutzten eine grafische Schnittstelle
+interfere; einmischen; They need not to interfere; Sie müssen nicht einmischen
+interference; Einmischung; They experienced interference; Sie erlebten Einmischung
+interim; Übergangs-; He was appointed as an interim manager; Er wurde ernannt als ein Übergangs Manager
+interior; Innenraum; They redecorated the interior of the house; Sie renovierten den Innenraum von dem Haus
+intermediate; mittel-; It is an intermediate course; Es ist ein mittel Kurs
+interpretation; Interpretation; They had a different interpretation of the event; Sie hatten eine andere Interpretation von dem Ereignis
+interval; Intervall; There was an interval between the acts; Es war ein Intervall zwischen den Akten
+intervene; eingreifen; They had to intervene in the dispute; Sie mussten eingreifen in dem Streit
+intervention; Intervention; The intervention was necessary; Die Intervention war notwendig
+intimate; intim; They had an intimate relationship; Sie hatten eine intime Beziehung
+intriguing; faszinierend; The story was very intriguing; Die Geschichte war sehr faszinierend
+invade; einfallen; They invaded the country; Sie fielen ein das Land
+invasion; Invasion; They faced an invasion; Sie erlebten eine Invasion
+investigator; Ermittler/in; He is a police investigator; Er ist ein Polizei Ermittler
+investor; Investor/in; They are looking for investors; Sie suchen nach Investoren
+invisible; unsichtbar; The stain was invisible; Der Fleck war unsichtbar
+invoke; anrufen; They invoked their right; Sie riefen an ihr Recht
+involvement; Beteiligung; His involvement was clear; Seine Beteiligung war klar
+ironic; ironisch; It was an ironic situation; Es war eine ironische Situation
+ironically; ironischerweise; Ironically, it rained the day of the picnic; Ironischerweise, es regnete den Tag von dem Picknick
+irony; Ironie; He used irony; Er benutzte Ironie
+irrelevant; irrelevant; The comment was irrelevant; Der Kommentar war irrelevant
+isolate; isolieren; They tried to isolate the problem; Sie versuchten zu isolieren das Problem
+isolated; isoliert; They lived in an isolated community; Sie lebten in einer isolierten Gemeinschaft
+isolation; Isolation; They were in isolation; Sie waren in Isolation
+jail; Gefängnis; He was sent to jail; Er wurde geschickt zu Gefängnis
+jet; Jet; They travelled by jet; Sie reisten mit Jet
+joint; gemeinsam; They did a joint project; Sie machten ein gemeinsames Projekt
+journalism; Journalismus; She studied journalism; Sie studierte Journalismus
+judicial; gerichtlich; They had a judicial review; Sie hatten eine gerichtliche Überprüfung
+junction; Kreuzung; They met at the junction; Sie trafen sich an der Kreuzung
+jurisdiction; Gerichtsbarkeit; They are under their jurisdiction; Sie sind unter ihrer Gerichtsbarkeit
+jury; Jury; The jury reached a verdict; Die Jury erreichte ein Urteil
+just; gerecht; The punishment was just; Die Strafe war gerecht
+justification; Rechtfertigung; They needed a justification for their actions; Sie brauchten eine Rechtfertigung für ihre Aktionen
+kidnap; entführen; They tried to kidnap the child; Sie versuchten zu entführen das Kind
+kidney; Niere; He had a problem with his kidney; Er hatte ein Problem mit seiner Niere
+kingdom; Königreich; They lived in a kingdom; Sie lebten in einem Königreich
+kit; Kit; They bought a first aid kit; Sie kauften ein Erste-Hilfe Kit
+lad; Junge; He is a nice lad; Er ist ein netter Junge
+ladder; Leiter; They climbed the ladder; Sie kletterten die Leiter
+landing; Landung; The plane made a safe landing; Das Flugzeug machte eine sichere Landung
+landlord; Vermieter/in; He is her landlord; Er ist ihr Vermieter
+landmark; Wahrzeichen; It is a famous landmark; Es ist ein berühmtes Wahrzeichen
+lane; Fahrspur; They drove in the right lane; Sie fuhren in der rechten Fahrspur
+lap; Schoß; The cat sat on her lap; Die Katze saß auf ihrem Schoß
+large-scale; groß angelegt; It was a large-scale project; Es war ein groß angelegtes Projekt
+laser; Laser; They used a laser; Sie benutzten einen Laser
+lately; in letzter Zeit; He has been tired lately; Er ist müde gewesen in letzter Zeit
+latter; letztere/r; He preferred the latter option; Er bevorzugte die letztere Option
+lawn; Rasen; They mowed the lawn; Sie mähten den Rasen
+lawsuit; Klage; They filed a lawsuit; Sie reichten eine Klage ein
+layout; Layout; They changed the layout of the website; Sie änderten das Layout von der Webseite
+leaflet; Flugblatt; They distributed a leaflet; Sie verteilten ein Flugblatt
+leak; lecken/Leck; There was a leak in the roof; Es war ein Leck in dem Dach
+leap; Sprung; He made a leap; Er machte einen Sprung
+legacy; Erbe; His legacy will continue; Sein Erbe wird fortsetzen
+legend; Legende; It is a local legend; Es ist eine lokale Legende
+legendary; legendär; He was a legendary figure; Er war eine legendäre Figur
+legislation; Gesetzgebung; They debated the legislation; Sie debattierten die Gesetzgebung
+legislative; legislativ; They have legislative power; Sie haben legislative Macht
+legislature; Legislative; They voted in the legislature; Sie wählten in der Legislative
+legitimate; legitim; It was a legitimate claim; Es war ein legitimer Anspruch
+lengthy; langwierig; It was a lengthy process; Es war ein langwieriger Prozess
+lens; Linse; He cleaned the lens of the camera; Er reinigte die Linse von der Kamera
+lesbian; lesbisch; She is a lesbian; Sie ist eine Lesbe
+lesser; geringer; It was of lesser importance; Es war von geringerer Bedeutung
+lethal; tödlich; The weapon was lethal; Die Waffe war tödlich
+liable; haftbar; They are liable for the damage; Sie sind haftbar für den Schaden
+liberal; liberal; He has liberal views; Er hat liberale Ansichten
+liberation; Befreiung; They celebrated the liberation; Sie feierten die Befreiung
+liberty; Freiheit; They fought for liberty; Sie kämpften für Freiheit
+license; Lizenz; He has a driving license; Er hat eine Fahr Lizenz
+lifelong; lebenslang; It was a lifelong dream; Es war ein lebenslanger Traum
+lifetime; Lebenszeit; It was the opportunity of a lifetime; Es war die Gelegenheit von einer Lebenszeit
+lighting; Beleuchtung; They improved the lighting; Sie verbesserten die Beleuchtung
+likelihood; Wahrscheinlichkeit; There is a low likelihood of rain; Es gibt eine niedrige Wahrscheinlichkeit von Regen
+likewise; ebenfalls; He did it and I did likewise; Er tat es und ich tat ebenfalls
+limb; Gliedmaße; He hurt his limb; Er verletzte seine Gliedmaße
+limitation; Einschränkung; There was a limitation of freedom; Es war eine Einschränkung von Freiheit
+line-up; Aufstellung; This is the team line-up; Das ist die Team Aufstellung
+linear; linear; It was a linear process; Es war ein linearer Prozess
+linger; verweilen; They lingered after the event; Sie verweilten nach dem Ereignis
+listing; Auflistung; The company is on the stock market listing; Die Firma ist auf der Börsen Auflistung
+literacy; Literalität; They are working to improve literacy; Sie arbeiten um zu verbessern Literalität
+literally; wörtlich; He literally jumped for joy; Er sprang wörtlich vor Freude
+literary; literarisch; It was a literary festival; Es war ein literarisches Festival
+litre; Liter; They bought a litre of milk; Sie kauften ein Liter von Milch
+litter; Abfall; They cleared the litter from the beach; Sie beseitigten den Abfall von dem Strand
+liver; Leber; He has a problem with his liver; Er hat ein Problem mit seiner Leber
+lobby; Lobby; They lobbied the government; Sie lobbyierten die Regierung
+log; Protokoll; They kept a log of events; Sie führten ein Protokoll von Ereignissen
+logic; Logik; It was a matter of logic; Es war eine Sache von Logik
+logo; Logo; The company has a new logo; Die Firma hat ein neues Logo
+long-standing; langjährig; They had a long-standing friendship; Sie hatten eine langjährige Freundschaft
+long-time; langjährige/r; They are long-time friends; Sie sind langjährige Freunde
+loom; drohen; A crisis was looming; Eine Krise drohte
+loop; Schleife; There was a loop in the road; Es war eine Schleife in der Straße
+lottery; Lotterie; They won the lottery; Sie gewannen die Lotterie
+loyal; loyal; They are very loyal supporters; Sie sind sehr loyale Unterstützer
+loyalty; Loyalität; They valued loyalty; Sie schätzten Loyalität
+lyric; Liedtext; He wrote the lyric for the song; Er schrieb den Liedtext für das Lied
+machinery; Maschinen; They have new machinery; Sie haben neue Maschinen
+magical; magisch; It was a magical experience; Es war eine magische Erfahrung
+magistrate; Magistrat/in; He appeared before the magistrate; Er erschien vor dem Magistrat
+magnetic; magnetisch; The metal was magnetic; Das Metall war magnetisch
+magnificent; prächtig; The view was magnificent; Die Aussicht war prächtig
+magnitude; Größe; The magnitude of the problem was significant; Die Größe von dem Problem war bedeutend
+mainland; Festland; They travelled from the island to the mainland; Sie reisten von der Insel zu dem Festland
+mainstream; Mainstream; They are part of the mainstream; Sie sind Teil von dem Mainstream
+maintenance; Wartung; They need to do some maintenance; Sie müssen tun etwas Wartung
+major; bedeutend; It was a major event; Es war ein bedeutendes Ereignis
+make-up; Make-up; She put on some make-up; Sie legte an etwas Make-up
+making; machen; They were making a cake; Sie waren machen einen Kuchen
+mandate; Mandat; They received a mandate from the voters; Sie erhielten ein Mandat von den Wählern
+mandatory; obligatorisch; It is mandatory to wear a seatbelt; Es ist obligatorisch zu tragen einen Sicherheitsgurt
+manifest; offensichtlich; The problem was manifest; Das Problem war offensichtlich
+manipulate; manipulieren; They tried to manipulate the data; Sie versuchten zu manipulieren die Daten
+manipulation; Manipulation; They accused him of manipulation; Sie beschuldigten ihn der Manipulation
+manufacture; herstellen; They manufacture cars; Sie stellen her Autos
+manufacturing; Herstellung; They work in manufacturing; Sie arbeiten in Herstellung
+manuscript; Manuskript; They found an old manuscript; Sie fanden ein altes Manuskript
+marathon; Marathon; He ran the marathon; Er rannte den Marathon
+march; marschieren; They marched through the street; Sie marschierten durch die Straße
+margin; Rand; They wrote in the margin; Sie schrieben in dem Rand
+marginal; marginal; It was of marginal importance; Es war von marginaler Bedeutung
+marine; Meeres-; They studied marine life; Sie studierten Meeres Leben
+marker; Markierung; They put a marker on the map; Sie setzten eine Markierung auf der Karte
+marketplace; Marktplatz; They bought food at the marketplace; Sie kauften Essen an dem Marktplatz
+martial; martialisch; They were trained in martial arts; Sie waren trainiert in martialischen Künsten
+mask; Maske; He wore a mask; Er trug eine Maske
+massacre; Massaker; They were victims of a massacre; Sie waren Opfer von einem Massaker
+mate; Partner/in; They were good mates; Sie waren gute Partner
+mathematical; mathematisch; It was a mathematical problem; Es war ein mathematisches Problem
+mature; reif; The fruit was mature; Die Frucht war reif
+maximize; maximieren; They tried to maximize their profits; Sie versuchten zu maximieren ihre Gewinne
+mayor; Bürgermeister/in; The mayor opened the event; Der Bürgermeister eröffnete das Ereignis
+meaningful; bedeutungsvoll; It was a meaningful gesture; Es war eine bedeutungsvolle Geste
+meantime; inzwischen; In the meantime, we wait; In der Zwischenzeit, wir warten
+mechanic; Mechaniker/in; He is a car mechanic; Er ist ein Auto Mechaniker
+mechanical; mechanisch; It was a mechanical device; Es war eine mechanische Vorrichtung
+mechanism; Mechanismus; They studied the mechanism; Sie studierten den Mechanismus
+medal; Medaille; He won a medal; Er gewann eine Medaille
+medication; Medikament; They took their medication; Sie nahmen ihre Medikamente
+medieval; mittelalterlich; It was a medieval castle; Es war ein mittelalterliches Schloss
+meditation; Meditation; She does meditation every day; Sie macht Meditation jeden Tag
+melody; Melodie; The song has a beautiful melody; Das Lied hat eine schöne Melodie
+membership; Mitgliedschaft; They have a membership card; Sie haben eine Mitgliedschaftskarte
+memo; Memo; He sent a memo; Er sandte ein Memo
+memoir; Memoiren; She wrote a memoir about her life; Sie schrieb Memoiren über ihr Leben
+memorable; unvergesslich; It was a memorable experience; Es war eine unvergessliche Erfahrung
+memorial; Denkmal; They built a memorial; Sie bauten ein Denkmal
+mentor; Mentor/in; He is a mentor for the new staff; Er ist ein Mentor für das neue Personal
+merchant; Händler/in; He is a merchant; Er ist ein Händler
+mercy; Gnade; They showed mercy to him; Sie zeigten Gnade zu ihm
+mere; bloß; It was a mere coincidence; Es war ein bloßer Zufall
+merely; lediglich; They merely wanted to ask a question; Sie lediglich wollten fragen eine Frage
+merge; verschmelzen; They merged the two companies; Sie verschmolzen die zwei Firmen
+merger; Fusion; There was a merger of two companies; Es war eine Fusion von zwei Firmen
+merit; Verdienst; It was an argument on its merit; Es war eine Argumentation auf seinem Verdienst
+metaphor; Metapher; He used a metaphor; Er benutzte eine Metapher
+methodology; Methodik; They used a specific methodology; Sie benutzten eine spezifische Methodik
+midst; inmitten; They were in the midst of a crisis; Sie waren inmitten einer Krise
+migration; Migration; They studied the migration of birds; Sie studierten die Migration von Vögeln
+militant; militant; They were a militant group; Sie waren eine militante Gruppe
+militia; Miliz; They joined the militia; Sie traten bei der Miliz
+mill; Mühle; They used a mill to grind flour; Sie benutzten eine Mühle um zu mahlen Mehl
+miner; Bergmann/frau; He is a coal miner; Er ist ein Kohle Bergmann
+minimal; minimal; The damage was minimal; Der Schaden war minimal
+minimize; minimieren; They tried to minimize the risk; Sie versuchten zu minimieren das Risiko
+mining; Bergbau; They work in the mining industry; Sie arbeiten in der Bergbau Industrie
+ministry; Ministerium; They work in the ministry of education; Sie arbeiten in dem Ministerium von Bildung
+minute; Minute; They waited for a minute; Sie warteten für eine Minute
+miracle; Wunder; It was a miracle; Es war ein Wunder
+miserable; elend; He felt miserable; Er fühlte sich elend
+misery; Elend; He lived a life of misery; Er lebte ein Leben von Elend
+misleading; irreführend; The information was misleading; Die Informationen waren irreführend
+missile; Rakete; They launched a missile; Sie starteten eine Rakete
+mob; Mob; There was an angry mob; Es war ein wütender Mob
+mobility; Mobilität; They studied the mobility of the population; Sie studierten die Mobilität von der Bevölkerung
+mobilize; mobilisieren; They tried to mobilize the troops; Sie versuchten zu mobilisieren die Truppen
+mode; Modus; They used a different mode; Sie benutzten ein anderes Modus
+moderate; gemäßigt; He had a moderate view; Er hatte eine gemäßigte Ansicht
+modest; bescheiden; He had a modest lifestyle; Er hatte einen bescheidenen Lebensstil
+modification; Modifikation; They made a modification to the machine; Sie machten eine Modifikation zu der Maschine
+momentum; Schwung; The project gained momentum; Das Projekt gewann Schwung
+monk; Mönch; He was a monk; Er war ein Mönch
+monopoly; Monopol; They had a monopoly on the market; Sie hatten ein Monopol auf dem Markt
+monster; Monster; It was a monster truck; Es war ein Monster LKW
+monthly; monatlich; They paid a monthly fee; Sie zahlten eine monatliche Gebühr
+monument; Denkmal; They built a monument; Sie bauten ein Denkmal
+morality; Moral; They questioned his morality; Sie fragten seine Moral in Frage
+moreover; außerdem; Moreover, he was very kind; Außerdem, er war sehr freundlich
+mortgage; Hypothek; They took out a mortgage; Sie nahmen auf eine Hypothek
+mosque; Moschee; They prayed in the mosque; Sie beteten in der Moschee
+motion; Bewegung; He made a motion with his hand; Er machte eine Bewegung mit seiner Hand
+motivate; motivieren; They tried to motivate the team; Sie versuchten zu motivieren das Team
+motivation; Motivation; He had a lack of motivation; Er hatte einen Mangel an Motivation
+motive; Motiv; What was his motive?; Was war sein Motiv?
+motorist; Autofahrer/in; The motorist was speeding; Der Autofahrer war überhöht
+moving; bewegend; It was a very moving speech; Es war eine sehr bewegende Rede
+municipal; städtisch; They had municipal responsibilities; Sie hatten städtische Verantwortlichkeiten
+mutual; gegenseitig; They had a mutual agreement; Sie hatten eine gegenseitige Vereinbarung
+myth; Mythos; It was a myth; Es war ein Mythos
+naked; nackt; They saw him naked; Sie sahen ihn nackt
+namely; nämlich; They invited two guests, namely John and Mary; Sie luden zwei Gäste ein, nämlich John und Mary
+nasty; gemein; He was very nasty to her; Er war sehr gemein zu ihr
+nationwide; landesweit; The survey was nationwide; Die Umfrage war landesweit
+naval; Marine-; They had a naval base; Sie hatten eine Marine Basis
+navigation; Navigation; They used a map for navigation; Sie benutzten eine Karte für Navigation
+nearby; nahegelegen; They live nearby; Sie leben nahegelegen
+necessity; Notwendigkeit; It was a necessity; Es war eine Notwendigkeit
+neglect; vernachlässigen; They neglected their duties; Sie vernachlässigten ihre Pflichten
+negotiate; verhandeln; They need to negotiate a deal; Sie müssen verhandeln einen Deal
+negotiation; Verhandlung; They started negotiations; Sie starteten Verhandlungen
+neighbouring; benachbart; They live in a neighbouring town; Sie leben in einer benachbarten Stadt
+nest; Nest; The birds built a nest; Die Vögel bauten ein Nest
+net; Netz; They used a fishing net; Sie benutzten ein Fischernetz
+neutral; neutral; They remained neutral; Sie blieben neutral
+newly; neu; They were newly married; Sie waren neu verheiratet
+newsletter; Newsletter; They published a newsletter; Sie veröffentlichten einen Newsletter
+niche; Nische; They found a niche in the market; Sie fanden eine Nische in dem Markt
+noble; edel; He was from a noble family; Er war von einer edlen Familie
+nod; nicken; She gave a nod of approval; Sie gab ein Nicken von Zustimmung
+nominate; nominieren; They nominated her for the award; Sie nominierten sie für die Auszeichnung
+nomination; Nominierung; They received a nomination; Sie erhielten eine Nominierung
+nominee; Nominierte/r; He is a nominee for the prize; Er ist ein Nominierter für den Preis
+non-profit; gemeinnützig; It is a non-profit organization; Es ist eine gemeinnützige Organisation
+nonetheless; dennoch; It was difficult nonetheless; Es war schwierig dennoch
+nonsense; Unsinn; That is complete nonsense; Das ist kompletter Unsinn
+noon; Mittag; They met at noon; Sie trafen sich um Mittag
+norm; Norm; It was the norm; Es war die Norm
+notable; bemerkenswert; He was a notable figure; Er war eine bemerkenswerte Figur
+notably; insbesondere; The weather was bad, notably the wind; Das Wetter war schlecht, insbesondere der Wind
+notebook; Notizbuch; She wrote in a notebook; Sie schrieb in einem Notizbuch
+notify; benachrichtigen; They need to notify the police; Sie müssen benachrichtigen die Polizei
+notorious; berüchtigt; He was notorious for his crimes; Er war berüchtigt für seine Verbrechen
+novel; Roman; She wrote a novel; Sie schrieb einen Roman
+novelist; Schriftsteller/in; He is a famous novelist; Er ist ein berühmter Schriftsteller
+nowadays; heutzutage; Nowadays, people use mobile phones; Heutzutage, Leute benutzen Handys
+nursery; Kindergarten; They went to the nursery; Sie gingen zu dem Kindergarten
+nursing; Krankenpflege; She is training in nursing; Sie trainiert in Krankenpflege
+nutrition; Ernährung; They studied nutrition; Sie studierten Ernährung
+obesity; Fettleibigkeit; Obesity is a health problem; Fettleibigkeit ist ein Gesundheitsproblem
+objection; Einwand; They had an objection; Sie hatten einen Einwand
+oblige; verpflichten; They were obliged to go; Sie waren verpflichtet zu gehen
+observer; Beobachter/in; He is an observer at the meeting; Er ist ein Beobachter bei dem Treffen
+obsess; besessen sein; He was obsessed with the game; Er war besessen von dem Spiel
+obsession; Besessenheit; It was an obsession; Es war eine Besessenheit
+obstacle; Hindernis; They overcame the obstacles; Sie überwanden die Hindernisse
+occasional; gelegentlich; They had occasional visits; Sie hatten gelegentliche Besuche
+occupation; Beruf; What is his occupation?; Was ist sein Beruf?
+occupy; besetzen; They occupied the land; Sie besetzten das Land
+occurrence; Vorkommnis; It was a rare occurrence; Es war ein seltenes Vorkommnis
+odds; Wahrscheinlichkeit; The odds of winning were low; Die Wahrscheinlichkeit von Gewinnen war niedrig
+offender; Täter/in; He was a first-time offender; Er war ein Erst Täter
+offering; Angebot; They gave an offering; Sie gaben ein Angebot
+offspring; Nachwuchs; They have no offspring; Sie haben keinen Nachwuchs
+ongoing; laufend; It was an ongoing process; Es war ein laufender Prozess
+openly; offen; They spoke openly about the issues; Sie sprachen offen über die Themen
+opera; Oper; They went to the opera; Sie gingen zu der Oper
+operational; betriebsbereit; The system was operational; Das System war betriebsbereit
+operator; Bediener/in; He was the machine operator; Er war der Maschine Bediener
+opt; entscheiden; They opted for that plan; Sie entschieden für den Plan
+optical; optisch; They needed an optical device; Sie brauchten ein optisches Gerät
+optimism; Optimismus; He had a lot of optimism; Er hatte eine Menge Optimismus
+optimistic; optimistisch; He was very optimistic; Er war sehr optimistisch
+oral; mündlich; They gave an oral presentation; Sie gaben eine mündliche Präsentation
+orchestra; Orchester; The orchestra played well; Das Orchester spielte gut
+organic; organisch; They grew organic food; Sie bauten an organisches Essen
+organizational; organisatorisch; They need organizational skills; Sie brauchen organisatorische Fähigkeiten
+orientation; Orientierung; They had an orientation session; Sie hatten eine Orientierungs Sitzung
+originate; entstehen; The idea originated from him; Die Idee entstand von ihm
+outbreak; Ausbruch; There was an outbreak of disease; Es war ein Ausbruch von Krankheit
+outfit; Outfit; She bought a new outfit; Sie kaufte ein neues Outfit
+outing; Ausflug; They went on a day outing; Sie gingen auf einen Tages Ausflug
+outlet; Auslass; They bought it from the factory outlet; Sie kauften es von dem Fabrik Auslass
+outlook; Aussicht; He had a positive outlook on life; Er hatte eine positive Aussicht auf das Leben
+output; Leistung; They measured the output; Sie maßen die Leistung
+outrage; Empörung; There was an outrage over the issue; Es war eine Empörung über das Thema
+outsider; Außenseiter/in; He was an outsider in the group; Er war ein Außenseiter in der Gruppe
+outstanding; hervorragend; The performance was outstanding; Die Leistung war hervorragend
+overcome; überwinden; They overcame the difficulties; Sie überwanden die Schwierigkeiten
+overlook; übersehen; They overlooked the mistake; Sie übersahen den Fehler
+overly; übermäßig; He was overly concerned; Er war übermäßig besorgt
+overnight; über Nacht; They stayed overnight; Sie blieben über Nacht
+overseas; Übersee; They travelled overseas; Sie reisten Übersee
+oversee; beaufsichtigen; They had to oversee the project; Sie mussten beaufsichtigen das Projekt
+overturn; umstürzen; They overturned the decision; Sie stürzten um die Entscheidung
+overwhelm; überwältigen; The emotions overwhelmed her; Die Emotionen überwältigten sie
+overwhelming; überwältigend; It was an overwhelming experience; Es war eine überwältigende Erfahrung
+ownership; Eigentum; They had ownership of the house; Sie hatten Eigentum von dem Haus
+oxygen; Sauerstoff; The air is full of oxygen; Die Luft ist voll von Sauerstoff
+packet; Päckchen; He bought a packet of crisps; Er kaufte ein Päckchen von Chips
+pad; Block; He wrote on a pad; Er schrieb auf einem Block
+palm; Handfläche; He held the coin in his palm; Er hielt die Münze in seiner Handfläche
+panic; Panik; There was a sense of panic; Es war ein Gefühl von Panik
+parade; Parade; They watched the parade; Sie schauten die Parade
+parallel; parallel; The lines were parallel; Die Linien waren parallel
+parameter; Parameter; They discussed the parameters of the project; Sie diskutierten die Parameter von dem Projekt
+parental; elterlich; They had parental responsibilities; Sie hatten elterliche Verantwortlichkeiten
+parish; Gemeinde; They live in the parish; Sie leben in der Gemeinde
+parliamentary; parlamentarisch; They debated in the parliamentary meeting; Sie debattierten in dem parlamentarischen Treffen
+part-time; Teilzeit; They worked part-time; Sie arbeiteten Teilzeit
+partial; teilweise; They had partial success; Sie hatten teilweisen Erfolg
+partially; teilweise; It was partially true; Es war teilweise wahr
+participation; Teilnahme; They had low participation; Sie hatten niedrige Teilnahme
+partnership; Partnerschaft; They formed a partnership; Sie formten eine Partnerschaft
+passing; vorbeigehend; They gave a passing glance; Sie gaben einen vorbeigehenden Blick
+passionate; leidenschaftlich; He was a passionate supporter; Er war ein leidenschaftlicher Unterstützer
+passive; passiv; He played a passive role; Er spielte eine passive Rolle
+password; Passwort; They needed a password; Sie brauchten ein Passwort
+pastor; Pfarrer/in; He is the local pastor; Er ist der lokale Pfarrer
+patch; Fleck; They had a patch of grass; Sie hatten ein Fleck von Gras
+patent; Patent; They have a patent for their product; Sie haben ein Patent für ihr Produkt
+pathway; Weg; They walked on the pathway; Sie gingen auf dem Weg
+patience; Geduld; They needed patience; Sie brauchten Geduld
+patrol; patrouillieren; They patrolled the area; Sie patrouillierten die Gegend
+patron; Gönner/in; He was a patron of the arts; Er war ein Gönner von den Künsten
+pause; Pause; They had a short pause; Sie hatten eine kurze Pause
+peak; Gipfel; They reached the peak; Sie erreichten den Gipfel
+peasant; Bauer/Bäuerin; They were poor peasants; Sie waren arme Bauern
+peculiar; eigentümlich; He had a peculiar habit; Er hatte eine eigentümliche Gewohnheit
+peer; Gleichgestellte/r; They were his peers; Sie waren seine Gleichgestellten
+penalty; Strafe; They paid a penalty; Sie zahlten eine Strafe
+perceive; wahrnehmen; They perceive it differently; Sie nehmen es wahr anders
+perception; Wahrnehmung; They had a different perception; Sie hatten eine andere Wahrnehmung
+permanently; dauerhaft; They were permanently banned; Sie waren dauerhaft verboten
+persist; bestehen; The problem persisted; Das Problem bestand
+persistent; beharrlich; He was a persistent salesman; Er war ein beharrlicher Verkäufer
+personnel; Personal; They had a meeting with the personnel; Sie hatten ein Treffen mit dem Personal
+petition; Petition; They signed a petition; Sie unterschrieben eine Petition
+philosopher; Philosoph/in; He is a great philosopher; Er ist ein großer Philosoph
+philosophical; philosophisch; They had a philosophical discussion; Sie hatten eine philosophische Diskussion
+physician; Arzt/Ärztin; She is a physician; Sie ist eine Ärztin
+pill; Pille; They took a pill; Sie nahmen eine Pille
+pioneer; Pionier/in; He is a pioneer in the field; Er ist ein Pionier in dem Feld
+pipeline; Pipeline; They built a pipeline; Sie bauten eine Pipeline
+pirate; Pirat; They were attacked by pirates; Sie wurden angegriffen von Piraten
+pit; Grube; They fell into the pit; Sie fielen in die Grube
+pity; Mitleid; He had pity on them; Er hatte Mitleid mit ihnen
+placement; Platzierung; They discussed the placement of the item; Sie diskutierten die Platzierung von dem Gegenstand
+plea; Plädoyer; He made a plea for help; Er machte ein Plädoyer für Hilfe
+plead; plädieren; He pleaded guilty; Er plädierte schuldig
+pledge; Versprechen; They made a pledge; Sie machten ein Versprechen
+plug; Stecker; They put the plug in the socket; Sie legten den Stecker in die Steckdose
+plunge; stürzen; They plunged into the water; Sie stürzten in das Wasser
+pole; Stange; They climbed the pole; Sie kletterten die Stange
+poll; Umfrage; They did a poll; Sie machten eine Umfrage
+pond; Teich; They swam in the pond; Sie schwammen in dem Teich
+pop; Pop; He listens to pop music; Er hört Pop Musik
+portfolio; Portfolio; They had a varied portfolio; Sie hatten ein vielfältiges Portfolio
+portion; Portion; He ate a large portion; Er aß eine große Portion
+portray; darstellen; They portrayed him as a hero; Sie stellten dar ihn als einen Helden
+post-war; Nachkriegs-; It was a post-war era; Es war eine Nachkriegs Ära
+postpone; verschieben; They had to postpone the event; Sie mussten verschieben das Ereignis
+potentially; potenziell; They are potentially dangerous; Sie sind potenziell gefährlich
+practitioner; Praktiker/in; He is a medical practitioner; Er ist ein medizinischer Praktiker
+preach; predigen; He preached in the church; Er predigte in der Kirche
+precede; vorausgehen; The storm will precede the rain; Der Sturm wird vorausgehen den Regen
+precedent; Präzedenzfall; It was a precedent; Es war ein Präzedenzfall
+precious; kostbar; It was a precious gift; Es war ein kostbares Geschenk
+precise; präzise; They needed precise measurements; Sie brauchten präzise Messungen
+precisely; präzise; They arrived precisely on time; Sie kamen an präzise pünktlich
+precision; Präzision; The work required precision; Die Arbeit erforderte Präzision
+predator; Raubtier; The lion is a predator; Der Löwe ist ein Raubtier
+predecessor; Vorgänger/in; He was her predecessor in the role; Er war ihr Vorgänger in der Rolle
+predictable; vorhersehbar; The result was predictable; Das Ergebnis war vorhersehbar
+predominantly; überwiegend; They were predominantly male; Sie waren überwiegend männlich
+preference; Vorliebe; They had a preference for coffee; Sie hatten eine Vorliebe für Kaffee
+pregnancy; Schwangerschaft; She is expecting a pregnancy; Sie erwartet eine Schwangerschaft
+prejudice; Vorurteil; They suffered from prejudice; Sie litten unter Vorurteil
+preliminary; vorläufig; They had a preliminary meeting; Sie hatten ein vorläufiges Treffen
+premier; Premier/in; He is the premier of the province; Er ist der Premier von der Provinz
+premise; Prämisse; They worked on the premise; Sie arbeiteten auf der Prämisse
+premium; Prämie; They paid a premium price; Sie zahlten einen Prämien Preis
+prescribe; verschreiben; The doctor prescribed the medication; Der Arzt verschrieb das Medikament
+prescription; Rezept; They needed a prescription; Sie brauchten ein Rezept
+presently; gegenwärtig; They are presently working on that project; Sie sind gegenwärtig arbeiten an dem Projekt
+preservation; Erhaltung; They are working on the preservation of nature; Sie arbeiten an der Erhaltung von Natur
+preside; vorsitzen; He presided over the meeting; Er saß vor dem Treffen
+presidency; Präsidentschaft; He won the presidency; Er gewann die Präsidentschaft
+presidential; präsidential; They had a presidential election; Sie hatten eine präsidential Wahl
+prestigious; prestigeträchtig; It was a prestigious award; Es war eine prestigeträchtige Auszeichnung
+presumably; vermutlich; Presumably, they will arrive soon; Vermutlich, sie werden ankommen bald
+presume; vermuten; They presume he is guilty; Sie vermuten er ist schuldig
+prevail; herrschen; The good will prevail; Das Gute wird herrschen
+prevalence; Verbreitung; They studied the prevalence of the disease; Sie studierten die Verbreitung von der Krankheit
+prevention; Prävention; They worked on disease prevention; Sie arbeiteten an Krankheits Prävention
+prey; Beute; The cat chased its prey; Die Katze jagte ihre Beute
+pride; Stolz; He felt pride in his son; Er fühlte Stolz auf seinen Sohn
+primarily; hauptsächlich; They were primarily concerned with safety; Sie waren hauptsächlich besorgt mit Sicherheit
+principal; Haupt-; They went to the principal building; Sie gingen zu dem Haupt Gebäude
+prior; vorherig; They had a prior engagement; Sie hatten eine vorherige Verpflichtung
+privatization; Privatisierung; They discussed the privatization of the company; Sie diskutierten die Privatisierung von der Firma
+privilege; Privileg; They had a privilege to enter; Sie hatten ein Privileg zu betreten
+probability; Wahrscheinlichkeit; They calculated the probability; Sie berechneten die Wahrscheinlichkeit
+probable; wahrscheinlich; It was a probable outcome; Es war ein wahrscheinliches Ergebnis
+probe; Sonde; They sent a probe to the planet; Sie sandten eine Sonde zu dem Planeten
+problematic; problematisch; It was a problematic situation; Es war eine problematische Situation
+proceed; fortfahren; They need to proceed with the plan; Sie müssen fortfahren mit dem Plan
+proceeding; Vorgang; They followed the legal proceedings; Sie folgten den rechtlichen Vorgängen
+proceeds; Erlös; They donated the proceeds; Sie spendeten den Erlös
+processing; Verarbeitung; They are processing the data; Sie sind verarbeiten die Daten
+processor; Prozessor; They use a computer processor; Sie benutzen ein Computer Prozessor
+proclaim; verkünden; They proclaimed his innocence; Sie verkündeten seine Unschuld
+productive; produktiv; They were very productive; Sie waren sehr produktiv
+productivity; Produktivität; They measured their productivity; Sie maßen ihre Produktivität
+profitable; profitabel; The business was very profitable; Das Geschäft war sehr profitabel
+profound; tiefgründig; It had a profound effect on him; Es hatte einen tiefgründigen Effekt auf ihn
+programming; Programmierung; They studied computer programming; Sie studierten Computer Programmierung
+progressive; fortschrittlich; They were a progressive party; Sie waren eine fortschrittliche Partei
+prohibit; verbieten; They prohibit smoking; Sie verbieten Rauchen
+projection; Projektion; They showed a projection on the wall; Sie zeigten eine Projektion an der Wand
+prominent; prominent; He was a prominent figure; Er war eine prominente Figur
+promising; vielversprechend; It was a promising start; Es war ein vielversprechender Start
+promotion; Beförderung; They received a promotion; Sie erhielten eine Beförderung
+prompt; auffordern; They prompted him to speak; Sie forderten ihn auf zu sprechen
+pronounced; ausgeprägt; He had a pronounced accent; Er hatte einen ausgeprägten Akzent
+propaganda; Propaganda; They spread propaganda; Sie verbreiteten Propaganda
+proportion; Anteil; They had a large proportion of the vote; Sie hatten einen großen Anteil von der Stimme
+proposition; Vorschlag; They made a proposition; Sie machten einen Vorschlag
+prosecute; strafrechtlich verfolgen; They need to prosecute him; Sie müssen strafrechtlich verfolgen ihn
+prosecution; Strafverfolgung; They faced prosecution; Sie erlebten Strafverfolgung
+prosecutor; Staatsanwalt/Staatsanwältin; He is the prosecutor; Er ist der Staatsanwalt
+prospective; zukünftig; They are prospective clients; Sie sind zukünftige Klienten
+prosperity; Wohlstand; They are working for prosperity; Sie arbeiten für Wohlstand
+protective; schützend; They wore protective clothing; Sie trugen schützende Kleidung
+protein; Protein; They ate a lot of protein; Sie aßen eine Menge von Protein
+protester; Demonstrant/in; He was a protester; Er war ein Demonstrant
+protocol; Protokoll; They followed the protocol; Sie folgten dem Protokoll
+province; Provinz; They lived in a province; Sie lebten in einer Provinz
+provincial; provinziell; It was a provincial matter; Es war eine provinzielle Angelegenheit
+provision; Versorgung; They provided food provision; Sie stellten Essen Versorgung
+provoke; provozieren; They tried to provoke a reaction; Sie versuchten zu provozieren eine Reaktion
+psychiatric; psychiatrisch; They had psychiatric problems; Sie hatten psychiatrische Probleme
+psychological; psychologisch; They had psychological issues; Sie hatten psychologische Probleme
+publicity; Öffentlichkeit; They sought more publicity; Sie suchten mehr Öffentlichkeit
+publishing; Verlagswesen; They work in the publishing industry; Sie arbeiten in der Verlagswesen Industrie
+pulse; Puls; They checked his pulse; Sie überprüften seinen Puls
+pump; Pumpe; They used a pump to get the water out; Sie benutzten eine Pumpe um zu bekommen das Wasser heraus
+punch; Schlag; He gave him a punch; Er gab ihm einen Schlag
+punk; Punk; He listens to punk music; Er hört Punk Musik
+purely; rein; It was purely for fun; Es war rein für Spaß
+pursuit; Verfolgung; They were in pursuit of the car; Sie waren in Verfolgung von dem Auto
+puzzle; Rätsel; It was a difficult puzzle; Es war ein schwieriges Rätsel
+query; Anfrage; They had a query; Sie hatten eine Anfrage
+quest; Suche; They were on a quest; Sie waren auf einer Suche
+questionnaire; Fragebogen; They filled in a questionnaire; Sie füllten aus einen Fragebogen
+quota; Quote; They had a quota to reach; Sie hatten eine Quote zu erreichen
+racial; rassistisch; They faced racial discrimination; Sie erlebten rassistische Diskriminierung
+racism; Rassismus; They fought against racism; Sie kämpften gegen Rassismus
+racist; Rassist/in; He was a racist; Er war ein Rassist
+radar; Radar; They used radar; Sie benutzten Radar
+radiation; Strahlung; They studied radiation; Sie studierten Strahlung
+radical; radikal; It was a radical approach; Es war ein radikaler Ansatz
+rage; Wut; He was filled with rage; Er war gefüllt mit Wut
+raid; Razzia; They did a police raid; Sie machten eine Polizei Razzia
+rail; Schiene; The train ran on the rail; Der Zug fuhr auf der Schiene
+rally; Kundgebung; They organized a rally; Sie organisierten eine Kundgebung
+random; zufällig; They made a random selection; Sie machten eine zufällige Auswahl
+ranking; Rangfolge; They had a high ranking; Sie hatten eine hohe Rangfolge
+rape; Vergewaltigung; They committed rape; Sie begingen Vergewaltigung
+rat; Ratte; They saw a rat; Sie sahen eine Ratte
+rating; Bewertung; They had a high rating; Sie hatten eine hohe Bewertung
+ratio; Verhältnis; They calculated the ratio; Sie berechneten das Verhältnis
+rational; rational; It was a rational decision; Es war eine rationale Entscheidung
+ray; Strahl; The sun emitted rays; Die Sonne emittierte Strahlen
+readily; bereitwillig; They accepted it readily; Sie akzeptierten es bereitwillig
+realization; Erkenntnis; It was a sudden realization; Es war eine plötzliche Erkenntnis
+realm; Bereich; It is in their realm; Es ist in ihrem Bereich
+rear; hinten; They sat at the rear of the car; Sie saßen an dem hinten von dem Auto
+reasonably; vernünftig; They acted reasonably; Sie handelten vernünftig
+reasoning; Argumentation; They used logical reasoning; Sie benutzten logische Argumentation
+reassure; beruhigen; They tried to reassure her; Sie versuchten zu beruhigen sie
+rebel; Rebell/in; They were rebels; Sie waren Rebellen
+rebellion; Rebellion; They started a rebellion; Sie starteten eine Rebellion
+rebuild; wiederaufbauen; They tried to rebuild the town; Sie versuchten wiederaufzubauen die Stadt
+receiver; Empfänger/in; He was the receiver of the package; Er war der Empfänger von dem Paket
+recession; Rezession; The country was in a recession; Das Land war in einer Rezession
+recipient; Empfänger/in; She was the recipient of the award; Sie war die Empfängerin von der Auszeichnung
+reckon; rechnen; They reckon it will cost a lot; Sie rechnen, dass es kosten wird eine Menge
+recognition; Anerkennung; They received recognition for their work; Sie erhielten Anerkennung für ihre Arbeit
+reconstruction; Wiederaufbau; They worked on the reconstruction; Sie arbeiteten an dem Wiederaufbau
+recount; wiedererzählen; They recounted the story; Sie wiedererzählten die Geschichte
+recovery; Erholung; They made a full recovery; Sie machten eine volle Erholung
+recruit; rekrutieren; They recruited new staff; Sie rekrutierten neues Personal
+recruitment; Rekrutierung; They had a recruitment campaign; Sie hatten eine Rekrutierungs Kampagne
+referee; Schiedsrichter/in; The referee stopped the game; Der Schiedsrichter stoppte das Spiel
+referendum; Referendum; They had a referendum; Sie hatten ein Referendum
+reflection; Reflexion; He saw his reflection in the mirror; Er sah seine Reflexion in dem Spiegel
+reform; Reform; They implemented a reform; Sie implementierten eine Reform
+refuge; Zuflucht; They found refuge in the church; Sie fanden Zuflucht in der Kirche
+refugee; Flüchtling; They were refugees; Sie waren Flüchtlinge
+refusal; Ablehnung; They met with a refusal; Sie trafen auf eine Ablehnung
+regain; wiedererlangen; They tried to regain control; Sie versuchten wiederzuerlangen Kontrolle
+regardless; ungeachtet; They went regardless of the weather; Sie gingen ungeachtet des Wetters
+regime; Regime; The country was ruled by a regime; Das Land war regiert von einem Regime
+registration; Registrierung; They needed a registration; Sie brauchten eine Registrierung
+regulate; regulieren; They need to regulate the industry; Sie müssen regulieren die Industrie
+regulator; Regulierer/in; He is a regulator; Er ist ein Regulierer
+regulatory; regulierend; They had regulatory issues; Sie hatten regulierende Themen
+rehabilitation; Rehabilitation; They received rehabilitation; Sie erhielten Rehabilitation
+reign; herrschen; He reigned over the country; Er herrschte über das Land
+reinforce; verstärken; They reinforced the building; Sie verstärkten das Gebäude
+rejection; Ablehnung; They faced rejection; Sie erlebten Ablehnung
+relevance; Relevanz; The information had no relevance; Die Informationen hatten keine Relevanz
+reliability; Zuverlässigkeit; They valued reliability; Sie schätzten Zuverlässigkeit
+relieve; erleichtern; They tried to relieve the pain; Sie versuchten zu erleichtern den Schmerz
+relieved; erleichtert; They were relieved to hear the news; Sie waren erleichtert zu hören die Nachrichten
+reluctant; widerwillig; He was reluctant to go; Er war widerwillig zu gehen
+remainder; Rest; They ate the remainder of the food; Sie aßen den Rest von dem Essen
+remains; Überreste; They found the remains of an old building; Sie fanden die Überreste von einem alten Gebäude
+remarkable; bemerkenswert; It was a remarkable achievement; Es war eine bemerkenswerte Errungenschaft
+remarkably; bemerkenswert; He was remarkably calm; Er war bemerkenswert ruhig
+remedy; Abhilfe; They needed a remedy for the problem; Sie brauchten eine Abhilfe für das Problem
+reminder; Erinnerung; They left a reminder; Sie ließen eine Erinnerung
+removal; Entfernung; They organized the removal of the waste; Sie organisierten die Entfernung von dem Müll
+render; machen; They need to render the data; Sie müssen machen die Daten
+renew; erneuern; They had to renew the contract; Sie mussten erneuern den Vertrag
+renowned; berühmt; He is a renowned scientist; Er ist ein berühmter Wissenschaftler
+rental; Miete; They had a rental agreement; Sie hatten eine Mietvereinbarung
+replacement; Ersatz; They needed a replacement part; Sie brauchten ein Ersatzteil
+reportedly; angeblich; He was reportedly involved; Er war angeblich involviert
+reporting; Berichterstattung; They are responsible for the reporting; Sie sind verantwortlich für die Berichterstattung
+representation; Vertretung; They had a good representation at the meeting; Sie hatten eine gute Vertretung bei dem Treffen
+reproduce; reproduzieren; They tried to reproduce the results; Sie versuchten zu reproduzieren die Ergebnisse
+reproduction; Reproduktion; They used the process for reproduction; Sie benutzten den Prozess für Reproduktion
+republic; Republik; They live in a republic; Sie leben in einer Republik
+resemble; ähneln; They resemble each other; Sie ähneln einander
+reside; wohnen; They reside in the city; Sie wohnen in der Stadt
+residence; Wohnsitz; They have their residence here; Sie haben ihren Wohnsitz hier
+residential; Wohn-; It is a residential area; Es ist eine Wohngegend
+residue; Rückstand; They found a residue; Sie fanden einen Rückstand
+resign; zurücktreten; They had to resign from their positions; Sie mussten zurücktreten von ihren Positionen
+resignation; Rücktritt; They handed in their resignation; Sie gaben ein ihren Rücktritt
+resistance; Widerstand; They faced resistance; Sie erlebten Widerstand
+resolution; Lösung; They found a resolution; Sie fanden eine Lösung
+respective; jeweilig; They went to their respective homes; Sie gingen zu ihren jeweiligen Häusern
+respectively; beziehungsweise; John and Mary, respectively; John und Mary, beziehungsweise
+restoration; Restaurierung; They worked on the restoration of the building; Sie arbeiteten an der Restaurierung von dem Gebäude
+restore; wiederherstellen; They tried to restore the order; Sie versuchten wiederherzustellen die Ordnung
+restraint; Zurückhaltung; They showed restraint; Sie zeigten Zurückhaltung
+restrict; beschränken; They tried to restrict the access; Sie versuchten zu beschränken den Zugang
+restriction; Beschränkung; There was a restriction on the use; Es war eine Beschränkung auf die Verwendung
+resume; fortsetzen; They will resume the meeting; Sie werden fortsetzen das Treffen
+retail; Einzelhandel; They work in the retail sector; Sie arbeiten in dem Einzelhandel Sektor
+retirement; Ruhestand; He reached retirement age; Er erreichte Ruhestand Alter
+retreat; Rückzug; They were forced to retreat; Sie waren gezwungen zu Rückzug
+retrieve; abrufen; They need to retrieve the data; Sie müssen abrufen die Daten
+revelation; Offenbarung; It was a revelation; Es war eine Offenbarung
+revenge; Rache; They wanted revenge; Sie wollten Rache
+revenue; Einnahmen; The company had high revenue; Die Firma hatte hohe Einnahmen
+reverse; umkehren; They tried to reverse the situation; Sie versuchten umzukehren die Situation
+revision; Überarbeitung; They did a revision of the document; Sie machten eine Überarbeitung von dem Dokument
+revival; Wiederbelebung; It was a cultural revival; Es war eine kulturelle Wiederbelebung
+revive; wiederbeleben; They tried to revive him; Sie versuchten wiederzubeleben ihn
+revolutionary; revolutionär; It was a revolutionary idea; Es war eine revolutionäre Idee
+rhetoric; Rhetorik; They used persuasive rhetoric; Sie benutzten überzeugende Rhetorik
+ridiculous; lächerlich; It was a ridiculous idea; Es war eine lächerliche Idee
+rifle; Gewehr; He carried a rifle; Er trug ein Gewehr
+riot; Aufstand; They faced a riot; Sie erlebten einen Aufstand
+rip; reißen; They tried to rip the paper; Sie versuchten zu reißen das Papier
+risky; riskant; It was a risky business; Es war ein riskantes Geschäft
+ritual; Ritual; They had a traditional ritual; Sie hatten ein traditionelles Ritual
+rival; Rivale/Rivalin; They are rivals; Sie sind Rivalen
+rob; ausrauben; They tried to rob the bank; Sie versuchten auszurauben die Bank
+robbery; Raub; They committed a robbery; Sie begingen einen Raub
+robust; robust; It was a robust system; Es war ein robustes System
+rock; Fels; They climbed the rock; Sie kletterten den Fels
+rocket; Rakete; They launched a rocket; Sie starteten eine Rakete
+rod; Stange; They used a metal rod; Sie benutzten eine Metall Stange
+romance; Romanze; It was a romantic story; Es war eine romantische Geschichte
+rose; Rose; They gave her a red rose; Sie gaben ihr eine rote Rose
+rotate; rotieren; The wheels rotated; Die Räder rotierten
+rotation; Rotation; They studied the rotation of the Earth; Sie studierten die Rotation von der Erde
+roughly; ungefähr; They estimated roughly; Sie schätzten ungefähr
+ruin; Ruin; It was in ruin; Es war in Ruin
+ruling; Entscheidung; They made a ruling; Sie machten eine Entscheidung
+rumour; Gerücht; They heard a rumour; Sie hörten ein Gerücht
+sack; entlassen; They sacked the worker; Sie entließen den Arbeiter
+sacred; heilig; It was a sacred place; Es war ein heiliger Ort
+sacrifice; Opfer; They made a sacrifice; Sie machten ein Opfer
+saint; Heilige/r; He is a saint; Er ist ein Heiliger
+sake; wegen; They did it for his sake; Sie taten es wegen ihm
+sanction; Sanktion; They imposed a sanction; Sie verhängten eine Sanktion
+satisfaction; Zufriedenheit; They showed satisfaction; Sie zeigten Zufriedenheit
+say; sagen; They wanted to say goodbye; Sie wollten sagen auf Wiedersehen
+scandal; Skandal; It was a public scandal; Es war ein öffentlicher Skandal
+scare; erschrecken; They tried to scare him; Sie versuchten zu erschrecken ihn
+scattered; verstreut; The leaves were scattered; Die Blätter waren verstreut
+scenario; Szenario; They discussed the possible scenario; Sie diskutierten das mögliche Szenario
+sceptical; skeptisch; He was very skeptical; Er war sehr skeptisch
+scholar; Gelehrte/r; He was a great scholar; Er war ein großer Gelehrter
+scholarship; Stipendium; They received a scholarship; Sie erhielten ein Stipendium
+scope; Umfang; They discussed the scope of the project; Sie diskutierten den Umfang von dem Projekt
+scratch; kratzen; They tried to scratch the surface; Sie versuchten zu kratzen die Oberfläche
+screening; Überprüfung; They did a screening; Sie machten eine Überprüfung
+screw; Schraube; They tightened the screw; Sie zogen die Schraube fest
+scrutiny; Prüfung; They faced scrutiny; Sie erlebten Prüfung
+seal; Siegel; They put a seal on the document; Sie setzten ein Siegel auf das Dokument
+secular; weltlich; It was a secular state; Es war ein weltlicher Staat
+seeker; Suchende/r; He is a truth seeker; Er ist ein Wahrheit Suchender
+seemingly; scheinbar; He was seemingly calm; Er war scheinbar ruhig
+segment; Segment; They studied a segment of the population; Sie studierten ein Segment von der Bevölkerung
+seize; beschlagnahmen; They tried to seize the property; Sie versuchten zu beschlagnahmen das Eigentum
+seldom; selten; They seldom visit; Sie besuchen selten
+selective; selektiv; They were very selective; Sie waren sehr selektiv
+seminar; Seminar; They attended a seminar; Sie nahmen an einem Seminar teil
+senator; Senator/in; He is a senator; Er ist ein Senator
+sensation; Gefühl; He had a strange sensation; Er hatte ein seltsames Gefühl
+sensitivity; Sensibilität; They need sensitivity; Sie brauchen Sensibilität
+sentiment; Gefühl; They shared the same sentiment; Sie teilten das gleiche Gefühl
+separation; Trennung; They went through a separation; Sie gingen durch eine Trennung
+serial; seriell; They made serial numbers; Sie machten Seriennummern
+set-up; Aufbau; They had a new set-up; Sie hatten einen neuen Aufbau
+settlement; Siedlung; They lived in a settlement; Sie lebten in einer Siedlung
+settler; Siedler/in; They were the first settlers; Sie waren die ersten Siedler
+severely; schwer; They were severely punished; Sie waren schwer bestraft
+sexuality; Sexualität; They discussed human sexuality; Sie diskutierten menschliche Sexualität
+sexy; sexy; The dress was very sexy; Das Kleid war sehr sexy
+shaped; geformt; The cake was heart shaped; Der Kuchen war Herz geformt
+shareholder; Aktionär/in; He is a shareholder; Er ist ein Aktionär
+shatter; zersplittern; The glass shattered; Das Glas zersplitterte
+shed; Schuppen; They stored their tools in the shed; Sie lagerten ihre Werkzeuge in dem Schuppen
+sheer; schier; It was sheer luck; Es war schier Glück
+shipping; Versand; They work in shipping; Sie arbeiten in Versand
+shocking; schockierend; The news was shocking; Die Nachrichten waren schockierend
+shoot; schießen; They saw him shoot the bird; Sie sahen ihn schießen den Vogel
+shore; Ufer; They walked along the shore; Sie gingen entlang des Ufers
+short-term; kurzfristig; They had short-term goals; Sie hatten kurzfristige Ziele
+shortage; Mangel; There was a shortage of food; Es war ein Mangel von Essen
+shortly; bald; They will arrive shortly; Sie werden ankommen bald
+shrink; schrumpfen; The sweater will shrink; Der Pullover wird schrumpfen
+shrug; zucken; They just shrugged their shoulders; Sie nur zuckten ihre Schultern
+sibling; Geschwister; They had a sibling rivalry; Sie hatten eine Geschwister Rivalität
+sigh; seufzen; They let out a sigh; Sie ließen aus einen Seufzer
+signature; Unterschrift; They needed his signature; Sie brauchten seine Unterschrift
+significance; Bedeutung; They studied the significance; Sie studierten die Bedeutung
+simulate; simulieren; They tried to simulate the process; Sie versuchten zu simulieren den Prozess
+simulation; Simulation; They created a simulation; Sie kreierten eine Simulation
+simultaneously; gleichzeitig; They arrived simultaneously; Sie kamen gleichzeitig an
+sin; Sünde; He committed a sin; Er beging eine Sünde
+situated; gelegen; It was situated on a hill; Es war gelegen auf einem Hügel
+sketch; Skizze; They made a sketch; Sie machten eine Skizze
+skilled; geschickt; They were very skilled workers; Sie waren sehr geschickte Arbeiter
+skip; überspringen; They skipped a step; Sie übersprangen einen Schritt
+skull; Schädel; They found a skull; Sie fanden einen Schädel
+slam; knallen; They slammed the door; Sie knallten die Tür
+slap; Ohrfeige; He gave him a slap; Er gab ihm eine Ohrfeige
+slash; aufschlitzen; They slashed the tires; Sie schlitzten auf die Reifen
+slavery; Sklaverei; They abolished slavery; Sie schafften ab die Sklaverei
+slogan; Slogan; They had a campaign slogan; Sie hatten einen Kampagne Slogan
+slot; Schlitz; They inserted the coin into the slot; Sie fügten ein die Münze in den Schlitz
+smash; zerschlagen; They smashed the window; Sie zerschlugen das Fenster
+snap; schnappen; They took a snap of the photo; Sie machten ein Schnappschuss von dem Foto
+so-called; sogenannte; They were so-called friends; Sie waren sogenannte Freunde
+soak; einweichen; They soaked the clothes; Sie weichten ein die Kleider
+soar; aufsteigen; The bird soared; Der Vogel stieg auf
+socialist; sozialistisch; They were socialist; Sie waren sozialistisch
+sole; einzig; He was the sole survivor; Er war der einzige Überlebende
+solely; ausschließlich; It was solely his fault; Es war ausschließlich seine Schuld
+solicitor; Anwalt/Anwältin; She is a solicitor; Sie ist eine Anwältin
+solidarity; Solidarität; They showed solidarity; Sie zeigten Solidarität
+solo; solo; He sang a solo; Er sang ein Solo
+somehow; irgendwie; They did it somehow; Sie taten es irgendwie
+sometime; irgendwann; They will arrive sometime soon; Sie werden ankommen irgendwann bald
+sophisticated; anspruchsvoll; They had a sophisticated approach; Sie hatten einen anspruchsvollen Ansatz
+sound; Klang; They heard a sound; Sie hörten einen Klang
+sovereignty; Souveränität; They fought for sovereignty; Sie kämpften für Souveränität
+spam; Spam; They received a spam email; Sie erhielten eine Spam Email
+span; Zeitspanne; It was a short span; Es war eine kurze Zeitspanne
+spare; Ersatz; They had a spare tire; Sie hatten ein Ersatz Reifen
+spark; Funke; They saw a spark; Sie sahen einen Funken
+specialize; spezialisieren; They specialize in that area; Sie spezialisieren sich in dem Bereich
+specialized; spezialisiert; They have specialized equipment; Sie haben spezialisierte Ausrüstung
+specification; Spezifikation; They had to meet the specification; Sie mussten treffen die Spezifikation
+specify; angeben; They need to specify the details; Sie müssen angeben die Details
+specimen; Exemplar; They collected a specimen; Sie sammelten ein Exemplar
+spectacle; Schauspiel; They witnessed a spectacle; Sie bezeugten ein Schauspiel
+spectacular; spektakulär; It was a spectacular view; Es war eine spektakuläre Aussicht
+spectator; Zuschauer/in; There were many spectators; Es waren viele Zuschauer
+spectrum; Spektrum; They studied the spectrum of colours; Sie studierten das Spektrum von Farben
+speculate; spekulieren; They tried to speculate on the reasons; Sie versuchten zu spekulieren auf die Gründe
+speculation; Spekulation; There was a lot of speculation; Es war eine Menge von Spekulation
+spell; buchstabieren; They asked him to spell his name; Sie fragten ihn zu buchstabieren seinen Namen
+sphere; Sphäre; It was in their sphere; Es war in ihrer Sphäre
+spill; verschütten; They spilled the water; Sie verschütteten das Wasser
+spin; drehen; The wheel began to spin; Das Rad begann zu drehen
+spine; Wirbelsäule; He injured his spine; Er verletzte seine Wirbelsäule
+spite; Trotz; They did it out of spite; Sie taten es aus Trotz
+spoil; verderben; The food will spoil; Das Essen wird verderben
+spokesman; Sprecher; He is a spokesman for the company; Er ist ein Sprecher für die Firma
+spokesperson; Sprecher/in; She is the spokesperson; Sie ist die Sprecherin
+spokeswoman; Sprecherin; She was the spokeswoman; Sie war die Sprecherin
+sponsorship; Sponsoring; They had sponsorship from a big company; Sie hatten Sponsoring von einer großen Firma
+sporting; sportlich; It was a sporting event; Es war ein sportliches Ereignis
+spotlight; Rampenlicht; They were in the spotlight; Sie waren in dem Rampenlicht
+spouse; Ehepartner/in; He is her spouse; Er ist ihr Ehepartner
+spy; Spion/in; He was a spy; Er war ein Spion
+squad; Trupp; They called in the police squad; Sie riefen in den Polizei Trupp
+squeeze; drücken; They tried to squeeze through the gap; Sie versuchten zu drücken durch die Lücke
+stab; Stich; They gave him a stab wound; Sie gaben ihm eine Stich Wunde
+stability; Stabilität; They were working to maintain stability; Sie arbeiteten um zu behalten Stabilität
+stabilize; stabilisieren; They tried to stabilize the system; Sie versuchten zu stabilisieren das System
+stake; Einsatz; They had a stake in the company; Sie hatten einen Einsatz in der Firma
+stall; Stand; They set up a stall at the market; Sie stellten auf einen Stand bei dem Markt
+stance; Haltung; They had a clear stance on the issue; Sie hatten eine klare Haltung zu dem Thema
+standing; stehend; They gave him a standing ovation; Sie gaben ihm eine stehende Ovation
+stark; krass; It was a stark contrast; Es war ein krasser Kontrast
+starve; verhungern; They were starving; Sie verhungerten
+statistical; statistisch; They used statistical analysis; Sie benutzten statistische Analyse
+steadily; stetig; They progressed steadily; Sie entwickelten sich stetig
+steam; Dampf; The kettle let off steam; Der Wasserkocher ließ ab Dampf
+steer; steuern; They tried to steer the boat; Sie versuchten zu steuern das Boot
+stem; Stamm; The tree has a thick stem; Der Baum hat einen dicken Stamm
+stereotype; Stereotyp; It was a negative stereotype; Es war ein negatives Stereotyp
+stimulate; stimulieren; They tried to stimulate the economy; Sie versuchten zu stimulieren die Wirtschaft
+stimulus; Reiz; It was a positive stimulus; Es war ein positiver Reiz
+stir; rühren; They need to stir the sauce; Sie müssen rühren die Soße
+storage; Lagerung; They used it for storage; Sie benutzten es für Lagerung
+straightforward; unkompliziert; It was a straightforward process; Es war ein unkomplizierter Prozess
+strain; Anstrengung; They felt the strain of the work; Sie fühlten die Anstrengung von der Arbeit
+strand; Strand; They walked along the strand; Sie gingen entlang dem Strand
+strategic; strategisch; They had a strategic plan; Sie hatten einen strategischen Plan
+strengthen; stärken; They wanted to strengthen their team; Sie wollten stärken ihr Team
+strictly; streng; They followed the rules strictly; Sie folgten den Regeln streng
+striking; auffallend; It was a striking difference; Es war ein auffallender Unterschied
+strip; Streifen; They added a strip of colour; Sie fügten hinzu einen Streifen von Farbe
+strive; streben; They strive to succeed; Sie streben zu gelingen
+stroke; Schlaganfall; He had a stroke; Er hatte einen Schlaganfall
+structural; strukturell; They needed structural repairs; Sie brauchten strukturelle Reparaturen
+stumble; stolpern; They stumbled on the way; Sie stolperten auf dem Weg
+stun; betäuben; They tried to stun them; Sie versuchten zu betäuben sie
+stunning; atemberaubend; The view was stunning; Die Aussicht war atemberaubend
+submission; Einreichung; They made a submission; Sie machten eine Einreichung
+subscriber; Abonnent/in; He is a subscriber to the magazine; Er ist ein Abonnent zu dem Magazin
+subscription; Abonnement; They had a subscription; Sie hatten ein Abonnement
+subsequent; nachfolgend; The subsequent events were shocking; Die nachfolgenden Ereignisse waren schockierend
+subsequently; anschließend; They subsequently changed their mind; Sie anschließend änderten ihre Meinung
+subsidy; Subvention; They received a subsidy; Sie erhielten eine Subvention
+substantial; wesentlich; They had a substantial amount of money; Sie hatten eine wesentliche Menge von Geld
+substantially; wesentlich; They were substantially different; Sie waren wesentlich anders
+substitute; ersetzen; They need to substitute the part; Sie müssen ersetzen das Teil
+substitution; Ersetzung; They made a substitution; Sie machten eine Ersetzung
+subtle; subtil; It was a subtle change; Es war eine subtile Veränderung
+suburb; Vorort; They live in the suburb; Sie leben in dem Vorort
+suburban; vorstädtisch; It was a suburban area; Es war ein vorstädtisches Gebiet
+succession; Nachfolge; There was a succession of problems; Es war eine Nachfolge von Problemen
+successive; aufeinanderfolgend; They won on three successive days; Sie gewannen auf drei aufeinanderfolgenden Tagen
+successor; Nachfolger/in; He is the successor of the company; Er ist der Nachfolger von der Firma
+suck; saugen; They used a vacuum to suck up the water; Sie benutzten einen Staubsauger um zu saugen auf das Wasser
+sue; verklagen; They tried to sue him; Sie versuchten zu verklagen ihn
+suffering; Leiden; They tried to reduce their suffering; Sie versuchten zu reduzieren ihr Leiden
+sufficient; ausreichend; They had sufficient money; Sie hatten ausreichend Geld
+sufficiently; ausreichend; They were sufficiently prepared; Sie waren ausreichend vorbereitet
+suicide; Selbstmord; He committed suicide; Er beging Selbstmord
+suite; Suite; They stayed in a suite; Sie blieben in einer Suite
+summit; Gipfel; They reached the summit of the mountain; Sie erreichten den Gipfel von dem Berg
+super; super; It was a super performance; Es war eine super Leistung
+superb; hervorragend; They did a superb job; Sie machten eine hervorragende Arbeit
+superior; überlegen; They were superior in skill; Sie waren überlegen in Geschick
+supervise; beaufsichtigen; They need to supervise the process; Sie müssen beaufsichtigen den Prozess
+supervision; Aufsicht; They worked under supervision; Sie arbeiteten unter Aufsicht
+supervisor; Vorgesetzte/r; He was their supervisor; Er war ihr Vorgesetzter
+supplement; Ergänzung; They added a supplement to the report; Sie fügten hinzu eine Ergänzung zu dem Bericht
+supportive; unterstützend; They were very supportive; Sie waren sehr unterstützend
+supposedly; angeblich; They were supposedly friends; Sie waren angeblich Freunde
+suppress; unterdrücken; They tried to suppress their emotions; Sie versuchten zu unterdrücken ihre Emotionen
+supreme; oberste/r; He was the supreme leader; Er war der oberste Führer
+surge; Anstieg; There was a surge in sales; Es war ein Anstieg in Verkäufen
+surgeon; Chirurg/in; He is a heart surgeon; Er ist ein Herz Chirurg
+surgical; chirurgisch; They did surgical repairs; Sie machten chirurgische Reparaturen
+surplus; Überschuss; They had a surplus of stock; Sie hatten einen Überschuss von Bestand
+surrender; aufgeben; They surrendered the fight; Sie gaben auf den Kampf
+surveillance; Überwachung; They were under surveillance; Sie waren unter Überwachung
+survival; Überleben; They fought for survival; Sie kämpften für Überleben
+survivor; Überlebende/r; She was a survivor; Sie war eine Überlebende
+suspend; aussetzen; They had to suspend the project; Sie mussten aussetzen das Projekt
+suspension; Aussetzung; They faced suspension; Sie erlebten Aussetzung
+suspicion; Verdacht; They had suspicion; Sie hatten Verdacht
+suspicious; verdächtig; He was acting suspicious; Er handelte verdächtig
+sustain; aufrechterhalten; They tried to sustain their momentum; Sie versuchten aufrechterhalten ihren Schwung
+sustainable; nachhaltig; It was a sustainable project; Es war ein nachhaltiges Projekt
+swallow; schlucken; They swallowed the pill; Sie schluckten die Pille
+swing; schwingen; They saw the rope swing; Sie sahen das Seil schwingen
+sword; Schwert; He drew his sword; Er zog sein Schwert
+symbolic; symbolisch; It was a symbolic gesture; Es war eine symbolische Geste
+sympathetic; mitfühlend; They were sympathetic to their situation; Sie waren mitfühlend zu ihrer Situation
+syndrome; Syndrom; They were diagnosed with the syndrome; Sie waren diagnostiziert mit dem Syndrom
+synthesis; Synthese; They studied the synthesis of the molecule; Sie studierten die Synthese von dem Molekül
+systematic; systematisch; They used a systematic approach; Sie benutzten einen systematischen Ansatz
+tackle; angehen; They need to tackle the problem; Sie müssen angehen das Problem
+tactic; Taktik; They used a specific tactic; Sie benutzten eine spezifische Taktik
+tactical; taktisch; It was a tactical decision; Es war eine taktische Entscheidung
+tag; Etikett; They put a tag on it; Sie setzten ein Etikett auf es
+tap; Hahn; They turned on the tap; Sie drehten auf den Hahn
+taxpayer; Steuerzahler/in; They were taxpayers; Sie waren Steuerzahler
+technological; technologisch; It was a technological development; Es war eine technologische Entwicklung
+teens; Teenager; They were in their teens; Sie waren in ihren Teenager Jahren
+temple; Tempel; They visited the temple; Sie besuchten den Tempel
+temporarily; vorübergehend; They were temporarily closed; Sie waren vorübergehend geschlossen
+tempt; versuchen; They tried to tempt him; Sie versuchten zu versuchen ihn
+tenant; Mieter/in; They are tenants of the building; Sie sind Mieter von dem Gebäude
+tendency; Tendenz; They had a tendency to do that; Sie hatten eine Tendenz zu tun das
+tender; zart; The meat was very tender; Das Fleisch war sehr zart
+tension; Spannung; There was a lot of tension; Es war eine Menge von Spannung
+tenure; Amtszeit; They had a long tenure; Sie hatten eine lange Amtszeit
+terminal; Terminal; They waited at the terminal; Sie warteten an dem Terminal
+terminate; beenden; They decided to terminate the contract; Sie beschlossen zu beenden den Vertrag
+terms; Bedingungen; They agreed on the terms; Sie einigten sich auf die Bedingungen
+terrain; Gelände; They explored the terrain; Sie erkundeten das Gelände
+terribly; schrecklich; It was terribly difficult; Es war schrecklich schwierig
+terrific; großartig; It was a terrific experience; Es war eine großartige Erfahrung
+terrify; erschrecken; They tried to terrify them; Sie versuchten zu erschrecken sie
+territory; Territorium; They fought over the territory; Sie kämpften über das Territorium
+terror; Terror; They lived in terror; Sie lebten in Terror
+terrorism; Terrorismus; They fought against terrorism; Sie kämpften gegen Terrorismus
+terrorist; Terrorist/in; He was a terrorist; Er war ein Terrorist
+testify; bezeugen; They had to testify in court; Sie mussten bezeugen vor Gericht
+testimony; Zeugenaussage; They gave their testimony; Sie gaben ihre Zeugenaussage
+testing; Testen; They did some testing; Sie machten etwas Testen
+textbook; Lehrbuch; They used a textbook; Sie benutzten ein Lehrbuch
+texture; Textur; The cloth had a rough texture; Das Tuch hatte eine raue Textur
+thankfully; glücklicherweise; Thankfully, they arrived safely; Glücklicherweise, sie kamen an sicher
+theatrical; theatralisch; It was a theatrical performance; Es war eine theatralische Aufführung
+theft; Diebstahl; They committed theft; Sie begingen Diebstahl
+theology; Theologie; They studied theology; Sie studierten Theologie
+theoretical; theoretisch; It was a theoretical approach; Es war ein theoretischer Ansatz
+therapist; Therapeut/in; He visited a therapist; Er besuchte einen Therapeuten
+thereafter; danach; They arrived and thereafter left; Sie kamen an und danach verließen
+thereby; dadurch; They were thereby protected; Sie waren dadurch geschützt
+thesis; These; They wrote a thesis; Sie schrieben eine These
+thorough; gründlich; It was a thorough investigation; Es war eine gründliche Untersuchung
+thoroughly; gründlich; They cleaned thoroughly; Sie reinigten gründlich
+thought-provoking; zum Nachdenken anregend; It was a thought-provoking question; Es war eine zum Nachdenken anregende Frage
+thoughtful; nachdenklich; He was a thoughtful person; Er war eine nachdenkliche Person
+thread; Faden; They used a thread and needle; Sie benutzten einen Faden und Nadel
+threshold; Schwelle; They stood at the threshold; Sie standen an der Schwelle
+thrilled; begeistert; They were thrilled to be there; Sie waren begeistert dort zu sein
+thrive; gedeihen; They hope to thrive; Sie hoffen zu gedeihen
+thumb; Daumen; They gave him a thumbs up; Sie gaben ihm einen Daumen hoch
+tide; Gezeit; They swam with the tide; Sie schwammen mit der Gezeit
+tighten; anziehen; They tried to tighten the screw; Sie versuchten anzuziehen die Schraube
+timber; Holz; They used timber to build the house; Sie benutzten Holz um zu bauen das Haus
+timely; rechtzeitig; It was a timely reminder; Es war eine rechtzeitige Erinnerung
+timing; Zeitplanung; They had good timing; Sie hatten eine gute Zeitplanung
+tissue; Gewebe; They examined the tissue; Sie untersuchten das Gewebe
+tobacco; Tabak; They used tobacco; Sie benutzten Tabak
+tolerance; Toleranz; They had a high tolerance; Sie hatten eine hohe Toleranz
+tolerate; tolerieren; They would not tolerate bad behaviour; Sie würden nicht tolerieren schlechtes Verhalten
+toll; Maut; They paid a toll; Sie zahlten eine Maut
+ton; Tonne; They moved tons of earth; Sie bewegten Tonnen von Erde
+tonne; Tonne; The ship weighed several tonnes; Das Schiff wog mehrere Tonnen
+top; Spitze; They climbed to the top; Sie kletterten zu der Spitze
+torture; Folter; They suffered torture; Sie litten Folter
+toss; werfen; They tossed the coin; Sie warfen die Münze
+total; gesamt; They calculated the total cost; Sie berechneten die Gesamtkosten
+tournament; Turnier; They won the tournament; Sie gewannen das Turnier
+toxic; giftig; It was a toxic substance; Es war eine giftige Substanz
+trace; Spur; They found a trace of evidence; Sie fanden eine Spur von Beweisen
+trademark; Markenzeichen; They had a trademark; Sie hatten ein Markenzeichen
+trading; Handel; They are involved in trading; Sie sind beteiligt in Handel
+tragedy; Tragödie; It was a tragedy; Es war eine Tragödie
+tragic; tragisch; It was a tragic accident; Es war ein tragischer Unfall
+trail; Pfad; They followed the trail; Sie folgten dem Pfad
+trailer; Anhänger; They towed a trailer; Sie zogen einen Anhänger
+trait; Merkmal; He had a specific trait; Er hatte ein spezifisches Merkmal
+transaction; Transaktion; They did a transaction; Sie machten eine Transaktion
+transcript; Abschrift; They made a transcript of the talk; Sie machten eine Abschrift von dem Gespräch
+transformation; Verwandlung; It was a transformation; Es war eine Verwandlung
+transit; Transit; They were in transit; Sie waren in Transit
+transmission; Übertragung; They studied the transmission of disease; Sie studierten die Übertragung von Krankheit
+transmit; übertragen; They tried to transmit the message; Sie versuchten zu übertragen die Nachricht
+transparency; Transparenz; They valued transparency; Sie schätzten Transparenz
+transparent; transparent; The glass was transparent; Das Glas war transparent
+transportation; Transport; They used public transportation; Sie benutzten öffentlichen Transport
+trap; Falle; They fell into a trap; Sie fielen in eine Falle
+trauma; Trauma; They suffered from trauma; Sie litten unter Trauma
+treasure; Schatz; They found a treasure; Sie fanden einen Schatz
+treaty; Vertrag; They signed a treaty; Sie unterschrieben einen Vertrag
+tremendous; enorm; It was a tremendous achievement; Es war eine enorme Errungenschaft
+tribal; Stammes-; They had a tribal structure; Sie hatten eine Stammes Struktur
+tribe; Stamm; They belonged to a tribe; Sie gehörten zu einem Stamm
+tribunal; Gerichtshof; They appeared before the tribunal; Sie erschienen vor dem Gerichtshof
+tribute; Tribut; They paid a tribute; Sie zahlten einen Tribut
+trigger; auslösen; They tried to trigger the alarm; Sie versuchten auszulösen den Alarm
+trillion; Billion; They were worth trillions of dollars; Sie waren wert Billionen von Dollar
+trio; Trio; They were a musical trio; Sie waren ein musikalisches Trio
+triumph; Triumph; It was a triumph; Es war ein Triumph
+troop; Truppe; They sent in the troops; Sie schickten in die Truppen
+trophy; Trophäe; They won a trophy; Sie gewannen eine Trophäe
+troubled; beunruhigt; They seemed troubled; Sie schienen beunruhigt
+trustee; Treuhänder/in; They were trustees of the fund; Sie waren Treuhänder von dem Fonds
+tsunami; Tsunami; They were affected by the tsunami; Sie waren betroffen von dem Tsunami
+tuition; Schulgeld; They paid for the tuition; Sie zahlten für das Schulgeld
+turnout; Wahlbeteiligung; The election had a high turnout; Die Wahl hatte eine hohe Wahlbeteiligung
+turnover; Umsatz; They had a high turnover; Sie hatten einen hohen Umsatz
+twist; verdrehen; They twisted the metal; Sie verdrehten das Metall
+ultimate; ultimativ; It was the ultimate goal; Es war das ultimative Ziel
+unacceptable; inakzeptabel; It was unacceptable behaviour; Es war inakzeptables Verhalten
+uncertainty; Unsicherheit; There was a lot of uncertainty; Es war eine Menge von Unsicherheit
+undergo; unterziehen; They need to undergo training; Sie müssen unterziehen Training
+undergraduate; Student/in im Grundstudium; She is an undergraduate at Harvard.; Sie ist ein Student im Grundstudium an Harvard.
+underlying; zugrunde liegend; The underlying cause of the problem is unknown.; Der zugrunde liegende Grund des Problems ist unbekannt.
+undermine; untergraben; His actions undermine her authority.; Seine Aktionen untergraben ihre Autorität.
+undertake; unternehmen; He will undertake the project.; Er wird das Projekt unternehmen.
+undoubtedly; zweifellos; She is undoubtedly a talented musician.; Sie ist zweifellos eine talentierte Musikerin.
+unfold; entfalten; The story will unfold gradually.; Die Geschichte wird sich allmählich entfalten.
+unfortunate; unglücklich; It was an unfortunate accident.; Es war ein unglücklicher Unfall.
+unify; vereinigen; We need to unify our efforts.; Wir müssen unsere Anstrengungen vereinigen.
+unite; vereinigen; They decided to unite the two departments.; Sie entschieden die zwei Abteilungen zu vereinigen.
+unity; Einheit; We need to work together in unity.; Wir müssen in Einheit zusammenarbeiten.
+universal; universell; The need for love is universal.; Das Bedürfnis nach Liebe ist universell.
+unprecedented; beispiellos; This is an unprecedented event.; Das ist ein beispielloses Ereignis.
+unveil; enthüllen; They will unveil the new sculpture.; Sie werden die neue Skulptur enthüllen.
+upcoming; bevorstehend; The upcoming election is important.; Die bevorstehende Wahl ist wichtig.
+upgrade; verbessern/aufwerten; We need to upgrade the software.; Wir müssen die Software verbessern.
+uphold; aufrechterhalten; We must uphold the law.; Wir müssen das Gesetz aufrechterhalten.
+urgent; dringend; We need an urgent response.; Wir brauchen eine dringende Antwort.
+usage; Nutzung; The usage of this product is easy.; Die Nutzung dieses Produktes ist einfach.
+useless; nutzlos; This tool is useless.; Dieses Werkzeug ist nutzlos.
+utility; Nutzen; This app has a lot of utility.; Diese App hat viel Nutzen.
+utilize; nutzen; We need to utilize all available resources.; Wir müssen alle verfügbaren Ressourcen nutzen.
+utterly; völlig; She was utterly exhausted.; Sie war völlig erschöpft.
+vacuum; Vakuum; There is a vacuum in the space.; Da ist ein Vakuum im Weltraum.
+vague; vage; His answer was very vague.; Seine Antwort war sehr vage.
+valid; gültig; This ticket is still valid.; Dieses Ticket ist noch gültig.
+validity; Gültigkeit; The validity of the data needs to be checked.; Die Gültigkeit der Daten muss überprüft werden.
+vanish; verschwinden; The ship vanished from the radar.; Das Schiff verschwand vom Radar.
+variable; variabel; The price is variable depending on demand.; Der Preis ist variabel abhängig von der Nachfrage.
+variation; Variation; There is a lot of variation in her work.; Da ist viel Variation in ihrer Arbeit.
+varied; unterschiedlich/vielfältig; They have varied interests.; Sie haben unterschiedliche Interessen.
+vein; Ader; The blood flows through the veins.; Das Blut fließt durch die Adern.
+venture; wagen; They decided to venture into a new business.; Sie entschieden sich, ein neues Geschäft zu wagen.
+verbal; verbal; She gave a verbal agreement.; Sie gab eine verbale Vereinbarung.
+verdict; Urteil; The jury reached a verdict.; Die Jury fällte ein Urteil.
+verify; überprüfen; Please verify the information.; Bitte überprüfe die Information.
+verse; Vers; The poem has many verses.; Das Gedicht hat viele Verse.
+versus; gegen; It’s our team versus their team.; Es ist unser Team gegen deren Team.
+vertical; vertikal; The line is vertical.; Die Linie ist vertikal.
+vessel; Gefäß; The ship is a large vessel.; Das Schiff ist ein großes Gefäß.
+veteran; Veteran; He is a war veteran.; Er ist ein Kriegsveteran.
+viable; realisierbar/lebensfähig; The plan seems viable.; Der Plan scheint realisierbar.
+vibrant; lebendig; The city is very vibrant.; Die Stadt ist sehr lebendig.
+vice; Laster; Gambling is his only vice.; Glücksspiel ist sein einziges Laster.
+vicious; bösartig; The dog had a vicious temper.; Der Hund hatte ein bösartiges Temperament.
+viewpoint; Standpunkt; From my viewpoint, that is not correct.; Von meinem Standpunkt, ist das nicht korrekt.
+villager; Dorfbewohner; The villagers were very welcoming.; Die Dorfbewohner waren sehr einladend.
+violate; verstoßen; The driver violated the speed limit.; Der Fahrer verstieß gegen die Geschwindigkeitsbegrenzung.
+violation; Verstoß; This is a violation of the rules.; Das ist ein Verstoß der Regeln.
+virtue; Tugend; Patience is a virtue.; Geduld ist eine Tugend.
+visa; Visum; You need a visa to travel there.; Du brauchst ein Visum, um dort hin zu reisen.
+visible; sichtbar; The stars are visible at night.; Die Sterne sind sichtbar in der Nacht.
+vocal; stimmlich; She is very vocal about her opinions.; Sie ist sehr stimmlich über ihre Meinungen.
+voluntary; freiwillig; His participation was voluntary.; Seine Teilnahme war freiwillig.
+voting; Wahl; Voting is important for citizens.; Wahl ist wichtig für Bürger.
+vow; Gelübde; They took a vow of silence.; Sie nahmen ein Gelübde der Stille.
+vulnerability; Verletzlichkeit; His vulnerability is obvious.; Seine Verletzlichkeit ist offensichtlich.
+vulnerable; verletzlich; Children are vulnerable in such situations.; Kinder sind verletzlich in solchen Situationen.
+wander; wandern; They like to wander in the forest.; Sie mögen es, im Wald zu wandern.
+ward; Station/Abteilung; He works in the hospital ward.; Er arbeitet in der Krankenhausstation.
+warehouse; Lagerhaus; The goods are stored in the warehouse.; Die Güter sind gelagert in dem Lagerhaus.
+warfare; Kriegführung; They have experience with modern warfare.; Sie haben Erfahrung mit moderner Kriegführung.
+warming; Erwärmung; Global warming is a problem.; Globale Erwärmung ist ein Problem.
+warrant; Haftbefehl/Rechtfertigung; The police had a warrant to search the house.; Die Polizei hatte einen Haftbefehl, um das Haus zu durchsuchen.
+warrior; Krieger; He is a brave warrior.; Er ist ein mutiger Krieger.
+weaken; schwächen; The storm will weaken soon.; Der Sturm wird sich bald schwächen.
+weave; weben; They weave traditional cloth.; Sie weben traditionelles Tuch.
+weed; Unkraut; He pulled the weeds in the garden.; Er zog das Unkraut im Garten.
+weekly; wöchentlich; They have a weekly meeting.; Sie haben eine wöchentliche Besprechung.
+weird; seltsam; That was a weird dream.; Das war ein seltsamer Traum.
+welfare; Wohlfahrt; The state is responsible for the welfare of citizens.; Der Staat ist verantwortlich für die Wohlfahrt der Bürger.
+well; gut; She is doing well at school.; Sie macht gut in der Schule.
+well-being; Wohlbefinden; Physical health is important for well-being.; Körperliche Gesundheit ist wichtig für Wohlbefinden.
+whatsoever; überhaupt; I have no idea whatsoever.; Ich habe keine Ahnung überhaupt.
+wheat; Weizen; They grow a lot of wheat.; Sie bauen viel Weizen an.
+whereby; wodurch; They have a contract whereby they share profits.; Sie haben einen Vertrag wodurch sie Gewinne teilen.
+whilst; während; They are talking whilst walking.; Sie reden während gehend.
+whip; Peitsche/schlagen; He used a whip to make the horse go faster.; Er nutzte eine Peitsche um das Pferd schneller gehen zu lassen.
+whoever; wer auch immer; Whoever calls first gets it.; Wer auch immer zuerst anruft, bekommt es.
+wholly; gänzlich; I am wholly committed to this project.; Ich bin gänzlich engagiert zu diesem Projekt.
+widen; erweitern; We need to widen the road.; Wir müssen die Straße erweitern.
+widespread; weit verbreitet; There is widespread poverty in the region.; Es gibt weit verbreitete Armut in der Region.
+widow; Witwe; She is a widow now.; Sie ist eine Witwe nun.
+width; Breite; What is the width of the room?; Was ist die Breite des Raumes?
+willingness; Bereitschaft; Her willingness to help is impressive.; Ihre Bereitschaft zu helfen ist beeindruckend.
+wipe; wischen; You can wipe the table with this cloth.; Du kannst den Tisch mit diesem Tuch wischen.
+wisdom; Weisheit; They value his wisdom.; Sie schätzen seine Weisheit.
+wit; Witz; She has a quick wit.; Sie hat einen schnellen Witz.
+withdraw; zurückziehen/abheben; You can withdraw money from the ATM.; Du kannst Geld von dem Geldautomat abheben.
+withdrawal; Rückzug/Abhebung; There is a fee for each withdrawal.; Es gibt eine Gebühr für jede Abhebung.
+workforce; Belegschaft; They have a large workforce.; Sie haben eine große Belegschaft.
+workout; Training; They had a long workout at the gym.; Sie hatten ein langes Training im Fitnessstudio.
+workplace; Arbeitsplatz; The workplace should be safe.; Der Arbeitsplatz sollte sicher sein.
+workshop; Werkstatt/Workshop; He runs a carpentry workshop.; Er betreibt eine Tischlerwerkstatt.
+worm; Wurm; There is a worm in the apple.; Da ist ein Wurm in dem Apfel.
+worship; anbeten; They worship in the church every Sunday.; Sie beten in der Kirche jeden Sonntag.
+worthwhile; lohnenswert; It was a worthwhile experience.; Es war eine lohnenswerte Erfahrung.
+worthy; würdig; He is a worthy candidate.; Er ist ein würdiger Kandidat.
+wrist; Handgelenk; She has a bracelet on her wrist.; Sie hat ein Armband auf ihrem Handgelenk.
+yell; schreien; He yelled loudly for help.; Er schrie laut nach Hilfe.
+yield; Ertrag/nachgeben; The farm yields a good harvest.; Die Farm liefert eine gute Ernte; He didn't yield his position.; Er gab nicht seine Position nach.
+youngster; Jüngling; The youngster is very energetic.; Der Jüngling ist sehr energiegeladen.
